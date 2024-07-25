@@ -51,7 +51,8 @@ layout: page
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ post.date | date: date_format }}
+        <span>{{ post.date | date: date_format }}   |   {{ post.Time }}</span>
+        <span style="color: red;">&#x1F4CD; {{ post.Location }}</span>
       </p>
 
       {% if thumbnail != "" %}
