@@ -8,7 +8,7 @@
 ############################
 # --- Required options --- #
 ############################
-
+# theme: beautiful-jekyll-theme
 # Name of website
 title: Lagrangians to Lasers
 
