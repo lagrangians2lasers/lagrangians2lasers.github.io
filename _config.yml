@@ -12,10 +12,10 @@
 # Name of website
 title: Lagrangians to Lasers
 
-cover-img: "/assets/img/L2.png"
+# "/assets/img/L2.png": "/path/to/img" 
 
 # Your name to show in the footer
-author: "Organizer - Shreyas Bakare"
+author: "Site by Shreyas Bakare"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,9 +24,14 @@ author: "Organizer - Shreyas Bakare"
 navbar-links:
   About L2L: "aboutL2L"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+    - About L2L: "aboutL2L"
+    - Jan 24: "jan24"
+    - Aug 23: 
+    - Jan 23: 
+
+  About organizer: "https://shreyasbakare.github.io"
 
 ################
 # --- Logo --- #
@@ -148,6 +153,7 @@ footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
+box-text-col: "#777777"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

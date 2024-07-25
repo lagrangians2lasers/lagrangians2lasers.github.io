@@ -1114,3 +1114,48 @@ pre {
     display: inline-block;
   }
 }
+
+.post-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.post-box {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  width: 100%;
+  max-width: 300px; /* Adjust the width as needed */
+}
+
+.post-box h2 {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+/* .post-box a {
+  text-decoration: none;
+  color: var(--box-text-col);
+} */
+
+.post-box a:hover,
+.post-box a:focus, {
+  color: var(--box-text-col);
+}
+
+.post-box .post-date {
+  font-size: 0.9em;
+  color: #888;
+}
+
+.post-box .post-author {
+  font-size: 0.9em;
+  color: #555;
+}
+
+.post-box .post-excerpt {
+  font-size: 1em;
+  color: #333;
+}

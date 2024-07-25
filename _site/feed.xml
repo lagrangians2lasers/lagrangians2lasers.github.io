@@ -23,21 +23,10 @@
       </item>
     
       <item>
-        <title>Sample blog post to learn markdown tips</title>
+        <title>Can ML Accelerate Particle Simulations?</title>
         <description>
-          There&apos;s lots to learn! - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that...
-        </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-28-sample-markdown-copy/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-sample-markdown-copy/</guid>
-      </item>
-    
-      <item>
-        <title>Flake it till you make it</title>
-        <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+          Experimental High Energy Physics - 
+          Over the last decade, machine learning techniques have been widely adopted by various domains in particle physics. I will discuss using such ML algorithms and simulations in particle physics analysis and the challenges they present. Then, I will introduce a new approach I have been working on, explaining how I...
         </description>
         <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
