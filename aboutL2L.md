@@ -7,9 +7,11 @@ cover-img: /assets/img/dbgi.png
 
 <!-- ![Lagrangians to Lasers](../assets/img/bgi.jpg) -->
 
-{: .box-warning}
-"Aristotle said a bunch of stuff that was wrong. Galileo and Newton fixed things up. Then Einstein broke everything again. Now, we've basically got it all worked out, except for small stuff, big stuff, hot stuff, cold stuff, fast stuff, heavy stuff, dark stuff, turbulence, and the concept of time."  
-\- Zach Weinersmith
+<div class="box-warning">
+  <br>"Aristotle said a bunch of stuff that was wrong. Galileo and Newton fixed things up. Then Einstein broke everything again. Now, we've basically got it all worked out, except for small stuff, big stuff, hot stuff, cold stuff, fast stuff, heavy stuff, dark stuff, turbulence, and the concept of time." 
+  <br>  - Zach Weinersmith
+</div>
+
 
 Lagrangians to Lasers (L2L) is a journal club for Physics enthusiasts at the Indian Institute of Science Education and Research (IISER) Pune.
 The goal of this club is to act as a forum for people interested in different fields of physics. Students present their interests among their peers in a way that is comprehensible at the undergraduate level.
