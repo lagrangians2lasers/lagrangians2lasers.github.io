@@ -23,7 +23,8 @@
       <span class="fa-solid fa-link" aria-hidden="true"></span>
       <span class="sr-only">Copy URL</span>
     </button>
-    <a href="https://api.whatsapp.com/send?text=https://lagrangians2lasers.github.io/2024-04-04-anirban_roy_chowdhury" 
+
+    <a href= "https://api.whatsapp.com/send?text={{ page.url | absolute_url | url_encode }}%2F%0A{{ page.title | strip_html | url_encode }}"
       class="btn btn-social-icon btn-whatsapp" title="Share on WhatsApp">
       <span style="color: rgb(97, 227, 80);" class="fab fa-fw fa-whatsapp" aria-hidden="true"></span>
       <span class="sr-only">WhatsApp</span>
