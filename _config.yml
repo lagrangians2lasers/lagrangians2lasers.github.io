@@ -11,9 +11,6 @@
 # theme: beautiful-jekyll-theme
 # Name of website
 title: Lagrangians to Lasers
-
-# "/assets/img/L2.png": "/path/to/img" 
-
 # Your name to show in the footer
 author: "Site by Shreyas Bakare"
 
@@ -37,6 +34,7 @@ navbar-links:
 ################
 # --- Logo --- #
 ################
+
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -314,3 +312,8 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 remove-ads: true
+
+
+# Include custom CSS file
+site-css:
+  - "/assets/css/custom-styles.css"
