@@ -9,6 +9,39 @@
 {% if any-share-links %}
 <section id = "social-share-section">
   <span class="sr-only">Share: </span>
+  
+
+  <!-- {% if site.share-links-active.instagram %}
+    <a href="https://www.instagram.com/" class="btn btn-social-icon btn-instagram" title="Visit Instagram">
+      <span class="fab fa-fw fa-instagram" aria-hidden="true"></span>
+      <span class="sr-only">Instagram</span>
+    </a>
+  {% endif %} -->
+
+  {% if site.share-links-active.whatsapp %}
+    <button onclick="copyPageURL()" class="btn btn-social-icon btn-copy" title="Copy URL">
+      <span class="fa-solid fa-link" aria-hidden="true"></span>
+      <span class="sr-only">Copy URL</span>
+    </button>
+    <a href="https://api.whatsapp.com/send?text=http%3A%2F%2Flocalhost%3A4000%2F2024-04-04-anirban_roy_chowdhury-copy%2F%20Studying+Invisible+Giants%3A+Measuring+SMBH+masses+using+Schwarzschild+modelling" 
+      class="btn btn-social-icon btn-whatsapp" title="Share on WhatsApp">
+      <span style="color: rgb(97, 227, 80);" class="fab fa-fw fa-whatsapp" aria-hidden="true"></span>
+      <span class="sr-only">WhatsApp</span>
+    </a>
+  {% endif %}
+
+  <script>
+  function copyPageURL() {
+    var dummy = document.createElement('input'),
+    text = window.location.href;
+    document.body.appendChild(dummy);
+    dummy.value = text;
+    dummy.select();
+    document.execCommand('copy');
+    document.body.removeChild(dummy);
+    alert('Page URL copied to clipboard!');
+  }
+  </script>
 
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | strip_html | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
