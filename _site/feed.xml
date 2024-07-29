@@ -7,30 +7,86 @@
     
     <description>This website is a virtual proof that I&apos;m awesome</description>
     
-    <link>http://localhost:4001/</link>
-    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Can ML Accelerate Particle Simulations?</title>
         <description>
           Experimental High Energy Physics - 
-          Over the last decade, machine learning techniques have been widely adopted by various domains in particle physics. I will discuss using such ML algorithms and simulations in particle physics analysis and the challenges they present. Then, I will introduce a new approach I have been working on, explaining how I...
+          
         </description>
         <pubDate>Thu, 11 Apr 2024 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2024-04-11-chitrakshee-yede/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-04-11-chitrakshee-yede/</guid>
+        <link>http://localhost:4000/2024-04-11-chitrakshee-yede/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-04-11-chitrakshee-yede/</guid>
       </item>
     
       <item>
-        <title>Can ML Accelerate Particle Simulations?</title>
+        <title>Studying Invisible Giants: Measuring SMBH masses using Schwarzschild modelling</title>
         <description>
-          Experimental High Energy Physics - 
-          Over the last decade, machine learning techniques have been widely adopted by various domains in particle physics. I will discuss using such ML algorithms and simulations in particle physics analysis and the challenges they present. Then, I will introduce a new approach I have been working on, explaining how I...
+          Material Science - 
+          Supermassive Black Holes are (like the name implies) extremely massive black holes, weighing up to billions of times the mass of the Sun, present in the centers of galaxies. By their nature, they are also invisible and thus very difficult to detect. There are several poorly understood phenomena related to...
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4001/2020-02-26-chitrakshee-yede/</link>
-        <guid isPermaLink="true">http://localhost:4001/2020-02-26-chitrakshee-yede/</guid>
+        <pubDate>Thu, 04 Apr 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024-04-04-anirban_roy_chowdhury-copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-04-04-anirban_roy_chowdhury-copy/</guid>
+      </item>
+    
+      <item>
+        <title>Tachyons: Time Travelers or Theoretical Quandaries?</title>
+        <description>
+          Theoretical Particle Physics - 
+          Discuss what tachyons are, how they might make sense, how we tried (and failed) to detect them, and how they still don’t actually make sense for the most part but are an interesting topic of discussion nonetheless.
+
+        </description>
+        <pubDate>Thu, 21 Mar 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024-03-21-abhilash-sengupta/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-03-21-abhilash-sengupta/</guid>
+      </item>
+    
+      <item>
+        <title>Langmuir Probe Analysis of Plasma</title>
+        <description>
+          Plasma Physics - 
+          The Langmuir probe is the most fundamental diagnostics technique for extracting plasma parameters such as electron temperature, plasma density, and plasma potential. I will explain how I analyzed the Langmuir probe data of RF-produced plasma. I will also discuss an analysis code, developed and implemented on Langmuir probe characteristics to...
+        </description>
+        <pubDate>Thu, 14 Mar 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024-03-14-shalini-das/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-03-14-shalini-das/</guid>
+      </item>
+    
+      <item>
+        <title>Growing Thin Films</title>
+        <description>
+          Nanotechnology - 
+          I will give a motivation for why thin films are interesting and worth studying and growing. I will then talk about the various ways in which we can grow thin films and the merits and demerits of each technique. I will also talk about the parameters used to characterize a...
+        </description>
+        <pubDate>Thu, 07 Mar 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024-03-07-dhairya-bhandari/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-03-07-dhairya-bhandari/</guid>
+      </item>
+    
+      <item>
+        <title>What it takes to build an Ultra-Stable Laser?</title>
+        <description>
+          Lasers - 
+          Throughout history, precise measurement has been crucial in gaining a deeper understanding of the nature of things and even rewriting the laws of physics. The science of measuring with extreme precision is fascinating in itself, but what’s equally intriguing is the physics and research behind the development of instruments that...
+        </description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024-02-29-gautham-upadhyaya/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-29-gautham-upadhyaya/</guid>
+      </item>
+    
+      <item>
+        <title>Introduction to Random Matrix Theory</title>
+        <description>
+          Condensed Matter and Statistical Physics - 
+          In Physics, one of the major goals is to construct good theoretical models that explain the observations in the physical world. Can the spectra of matrices with random entries serve as useful models for some physical systems? Turns out the answer is yes! The spectrum of random matrices serves as...
+        </description>
+        <pubDate>Thu, 15 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024-02-15-soham-chandak/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-15-soham-chandak/</guid>
       </item>
     
   </channel>

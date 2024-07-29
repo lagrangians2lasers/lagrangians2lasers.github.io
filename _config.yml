@@ -60,11 +60,11 @@ title-img: "/assets/img/L2L.png"
 social-network-links:
   email: "lagrangians2lasers@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: deanattali
-  github: lagrangians2lasers
-  # twitter: daattali
-  # patreon: DeanAttali
-  # youtube: "@daattali"
+  facebook: deanattali
+  
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: "@daattali"
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
@@ -72,7 +72,9 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: deanat78÷
+  
+  github: lagrangians2lasers
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
