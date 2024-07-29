@@ -38,14 +38,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/L-3.png"
+avatar: "/assets/img/new_logo.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/L2L.png"
+title-img: "/assets/img/l2lname1333.png"
 
 
 #####################################

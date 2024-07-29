@@ -23,7 +23,7 @@ This forum is not just about expanding your knowledge; it’s also an excellent 
 
 We meet on Thursdays at 6:30 PM in LHC 106.
 
-Interested in presenting? Please fill out our speaker form: 
+Interested in presenting? Please fill out speaker's [Google Form]()
 
 Join L2L [WhatsApp group](https://chat.whatsapp.com/JMUyMXHGgXxBl9mI4NOWub) or follow us on [InstaGram](https://www.instagram.com/lagrangians2lasers/) to get new updates!
 
