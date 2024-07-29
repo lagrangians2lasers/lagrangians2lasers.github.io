@@ -5,5 +5,17 @@ subtitle: Aristotle said a bunch of stuff that was wrong. Galileo and Newton fix
 
 ---
 
-HELLO WORLD
+Lagrangians to Lasers (L2L) is a journal club for Physics enthusiasts at the Indian Institute of Science Education and Research (IISER) Pune.
+The goal of this club is to act as a forum for people interested in different fields of physics. Students present their interests among their peers in a way that is comprehensible at the undergraduate level.
+
+In our JC, we strive to bridge the communication gap among the various sub-fields of physics, fostering a more integrated understanding of the subject.
+By participating in L2L, you'll stay connected with various developments across different areas of physics, helping you explore and refine your interests during your BS-MS degree.
+
+This forum is not just about expanding your knowledge; it’s also an excellent opportunity to hone your presentation skills and build a network of like-minded individuals. Whether you’re passionate about quantum mechanics, astrophysics, particle physics, condensed matter, statistical physics or any other field, L2L offers a supportive community to share and grow.
+
+Interested in presenting? Please fill out our speaker form!
+
+Join us on this exciting journey and stay tuned for the updates
+
+
 
