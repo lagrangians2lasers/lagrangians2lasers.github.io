@@ -2,7 +2,7 @@
 layout: page
 title: About L2L
 subtitle: 
-cover-img: /assets/img/dbgi.png
+cover-img: /assets/img/dbgi.jpeg
 ---
 
 <!-- ![Lagrangians to Lasers](../assets/img/bgi.jpg) -->
