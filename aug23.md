@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jan '24"
-subtitle: January Semester 2024
+subtitle: August Semester 2023
 ---
 
 <div class="post-list">
