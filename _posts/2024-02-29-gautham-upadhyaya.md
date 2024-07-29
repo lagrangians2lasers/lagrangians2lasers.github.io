@@ -4,12 +4,12 @@ title: "What it takes to build an Ultra-Stable Laser?"
 subtitle: Lasers
 Location: LHC 106
 Time: 18:30  → 19:30
-# gh-repo: daattali/beautiful-jekyll
+# gh-repo: 
 # gh-badge: [star, fork, follow]
-# cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
-# share-img: /assets/img/path.jpg
-tags: [ML]
+# cover-img: /assets/img/.jpg
+# thumbnail-img: /assets/img/.png
+# share-img: /assets/img/.jpg
+tags: []
 comments: true
 mathjax: true
 author: Gautham Upadhyaya

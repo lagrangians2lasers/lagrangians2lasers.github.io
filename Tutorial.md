@@ -200,3 +200,55 @@ When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.gi
 If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
 
 ![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+
+
+
+
+
+
+
+# To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
+#fb_comment_id: ""
+
+# To use CommentBox, sign up for a Project ID on https://commentbox.io
+#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+
+# To use Utterances comments: (0) uncomment the following section, (1) fill in
+# "repository" (make sure the repository is public), (2) Enable Issues in your repository,
+# (3) Install the Utterances app in your repository https://github.com/apps/utterances
+# See more details about the parameters below at https://utteranc.es/
+#utterances:
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  issue-term: title   # Mapping between blog posts and GitHub issues
+#  theme: github-light # Utterances theme
+#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+
+# To use Staticman comments, uncomment the following section. You may leave the reCaptcha
+# section commented if you aren't using reCaptcha for spam protection. 
+# Using Staticman requires advanced knowledge, please consult 
+# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
+# instructions. For any support with staticman please direct questions to staticman and 
+# not to BeautifulJekyll.
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+#    siteKey  : # You need to apply for a site key on Google
+#    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
+
+# To use giscus comments:
+# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository, 
+# (2) Install the giscus app in your repository (details at https://giscus.app),
+# (3) Fill in *all* the parameters below 
+# See more details about giscus and each of the following parameters at https://giscus.app
+#giscus:
+#  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository-id: # ID of your repository, retrieve this info from https://giscus.app
+#  category: Announcements # Category name of your GitHub Discussion posts
+#  category-id: # ID of your category, retrieve this info from https://giscus.app
+#  mapping: pathname
+#  reactions-enabled: 1
+#  emit-metadata: 0
+#  theme: light
