@@ -20,13 +20,13 @@ author: "<a href='https://shreyasbakare.github.io'>Site by Shreyas Bakare</a>"
 
 navbar-links:
   About L2L: "aboutL2L"
-  Resources:
+  Catalogue:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
-    - About L2L: "aboutL2L"
+    - Aug 24: "aug24"
     - Jan 24: "jan24"
-    - Aug 23: 
-    - Jan 23: 
+    - Aug 23: "aug23"
+    - Jan 23: "jan23"
 
   # About organizer: "https://shreyasbakare.github.io"
   About organizer: "404"
@@ -38,7 +38,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/L-3.png"
+avatar: "/assets/img/L-6.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
