@@ -14,7 +14,25 @@ layout: base
           {% endfor %}
         </div>
       {% endif %}
+      
+      {% if page.wantimage %}
+      <div class="image-slider">
+        <div class="slides">
+          {% for image in page.images %}
+          <div class="slide">
+            <img src="{{ image.path | relative_url }}" alt="{{ image.caption }}">
+            {% if image.caption %}
+            <div class="caption">{{ image.caption }}</div>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+        <button class="prev" onclick="plusSlides(-1)">&lt;</button>
+        <button class="next" onclick="plusSlides(1)">&gt;</button>
+      </div>
+      {% endif %}
 
+      <p></p>
       {{ content }}
 
       {% if page.after-content %}

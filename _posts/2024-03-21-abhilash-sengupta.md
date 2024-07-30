@@ -9,10 +9,11 @@ Time: 18:30  → 19:30
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/.png
 # share-img: /assets/img/.jpg
-tags: []
+tags: [THEORY, PARTICLE_PHY]
 comments: true
 mathjax: true
 author: Abhilash Sengupta
+position: "- MS student, University of Potsdam"
 ---
 {: .box-note}
 Discuss what tachyons are, how they might make sense, how we tried (and failed) to detect them, and how they still don't actually make sense for the most part but are an interesting topic of discussion nonetheless.

@@ -23,10 +23,11 @@ navbar-links:
   Catalogue:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
-    - Aug 24: "aug24"
-    - Jan 24: "jan24"
-    - Aug 23: "aug23"
-    - Jan 23: "jan23"
+    - Aug '24: "aug24"
+    - Jan '24: "jan24"
+    - Aug '23: "aug23"
+    - Jan '23: "jan23"
+    - Gallery: "pics"
 
   # About organizer: "https://shreyasbakare.github.io"
   About organizer: "404"
@@ -45,7 +46,7 @@ avatar: "/assets/img/new_logo.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/l2lname1333.png"
+title-img: "/assets/img/new_ltl1333.png"
 
 
 #####################################
@@ -153,13 +154,13 @@ footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
-box-text-col: "#777777"
+box-text-col: "#146cb7"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.jpeg"
+footer-img: "/assets/img/bgimage.jpeg"
 # page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.

@@ -1,7 +1,16 @@
 ---
 layout: page
-title: "Jan '24"
-subtitle: August Semester 2024
+title: "Aug '24"
+subtitle: August 2024 Semester
+wantimage: false
+image_directory: "assets/img/Aug24/"
+# images:
+  # - path: "assets/img/Jan24/da.jpg"
+  #   caption: "Caption for image 1"
+  # - path: "assets/img/Jan24/dwd.jpg"
+  #   caption: "Caption for image 2"
+  # - path: "assets/img/Jan24/ssd.jpg"
+  # Add more images as needed
 ---
 
 <div class="post-list">
@@ -15,10 +24,14 @@ subtitle: August Semester 2024
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
         <p class="post-author">By {% if post.author %}{{ post.author }}{% else %}Unknown Author{% endif %}</p>
+        {% if post.thumbnail-img %}
+        <div class="post-thumbnail" style="text-align: center;">
+          <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}"
+         style="max-width: 200px; height: auto; display: block; margin: 0 auto;">
+        </div>
+        {% endif %}
         <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
       </div>
     {% endif %}
   {% endfor %}
 </div>
-
-

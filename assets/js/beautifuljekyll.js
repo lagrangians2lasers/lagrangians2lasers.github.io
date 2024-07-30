@@ -136,5 +136,46 @@ let BeautifulJekyllJS = {
 };
 
 // 2fc73a3a967e97599c9763d05e564189
-
 document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+
+document.addEventListener('DOMContentLoaded', () => {
+  const prevButton = document.querySelector('.prev');
+  const nextButton = document.querySelector('.next');
+  const slides = document.querySelector('.slides');
+  const slideCount = document.querySelectorAll('.slide').length;
+  let index = 0;
+  let autoSlideInterval;
+
+  function updateSlider() {
+    const offset = -index * 100;
+    slides.style.transform = `translateX(${offset}%)`;
+  }
+
+  function startAutoSlide() {
+    autoSlideInterval = setInterval(() => {
+      index = (index < slideCount - 1) ? index + 1 : 0;
+      updateSlider();
+    }, 2000); // Change slides every 2 seconds
+  }
+
+  function stopAutoSlide() {
+    clearInterval(autoSlideInterval);
+  }
+
+  prevButton.addEventListener('click', () => {
+    stopAutoSlide();
+    index = (index > 0) ? index - 1 : slideCount - 1;
+    updateSlider();
+    startAutoSlide();
+  });
+
+  nextButton.addEventListener('click', () => {
+    stopAutoSlide();
+    index = (index < slideCount - 1) ? index + 1 : 0;
+    updateSlider();
+    startAutoSlide();
+  });
+
+  startAutoSlide(); // Start auto sliding when the page loads
+  updateSlider();
+});

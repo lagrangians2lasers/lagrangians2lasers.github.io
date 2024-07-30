@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to Random Matrix Theory"
-subtitle: Condensed Matter and Statistical Physics
+subtitle: Statistical Physics
 Location: LHC 106
 Time: 18:30  → 19:30
 # gh-repo: 
@@ -9,11 +9,11 @@ Time: 18:30  → 19:30
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/.png
 # share-img: /assets/img/.jpg
-tags: []
+tags: [THEORY, STAT_PHY]
 comments: true
 mathjax: true
 author: Soham Mukund Chandak
-position: 5th year BS-MS
+position: "- 5th year BS-MS"
 ---
 {: .box-note}
 In Physics, one of the major goals is to construct good theoretical models that explain the observations in the physical world. Can the spectra of matrices with random entries serve as useful models for some physical systems? Turns out the answer is yes! The spectrum of random matrices serves as useful models for atomic nuclei, classically chaotic quantum systems, and even the zeros of the Riemann Zeta function, among several other applications.

@@ -27,11 +27,16 @@ layout: page
       {% assign thumbnail=thumbnail | strip %}
 
       {% if site.feed_show_excerpt == false %}
-      {% if thumbnail != "" %}
+      <!-- {% if thumbnail != "" %}
       <div class="post-image post-image-normal">
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
         </a>
+      </div>
+      {% endif %} -->
+      {% if post.thumbnail-img %}
+      <div class="post-thumbnail">
+        <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}" style="max-width: 150px; height: auto;">
       </div>
       {% endif %}
       {% endif %}

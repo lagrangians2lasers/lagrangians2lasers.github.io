@@ -8,14 +8,14 @@ layout: null
   /* config file CSS variables */
   --page-col: {{ site.page-col | default: "#FFFFFF" }};
   --text-col: {{ site.text-col | default: "#404040" }};
-  --link-col: {{ site.link-col | default: "#008AFF" }};
+  --link-col: {{ site.link-col | default: "#146cb7" }};
   --hover-col: {{ site.hover-col | default: "#0085A1" }};
   --navbar-col: {{ site.navbar-col | default: "#EAEAEA" }};
   --navbar-text-col: {{ site.navbar-text-col | default: "#404040" }};
   --navbar-border-col: {{ site.navbar-border-col | default: "#DDDDDD" }};
   --footer-col: {{ site.footer-col | default: "#EAEAEA" }};
   --footer-text-col: {{ site.footer-text-col | default: "#777777" }};
-  --footer-link-col: {{ site.footer-link-col | default: "#404040" }};
+  --footer-link-col: {{ site.footer-link-col | default: "#146cb7" }};
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
@@ -966,7 +966,7 @@ pre {
 
 .box-note {
   background-color: #eee;
-  border-left-color: #2980b9;
+  border-left-color: #146cb7;
 }
 
 .box-warning {
@@ -1145,12 +1145,13 @@ pre {
   padding: 20px;
   background-color: #f9f9f9;
   width: 100%;
-  max-width: 300px; /* Adjust the width as needed */
+  max-width: 350px; /* Adjust the width as needed */
 }
 
 .post-box h2 {
   font-size: 1.5em;
   margin: 0;
+  color: #146cb7;
 }
 
 /* .post-box a {
@@ -1158,9 +1159,16 @@ pre {
   color: var(--box-text-col);
 } */
 
-.post-box a:hover,
-.post-box a:focus, {
-  color: var(--box-text-col);
+.post-box a {
+  color: #146cb7;
+}
+
+.post-box a:hover {
+  color: #0085A1;
+}
+
+.post-box a:focus {
+  color: #0085A1;
 }
 
 .post-box .post-date {
@@ -1176,4 +1184,80 @@ pre {
 .post-box .post-excerpt {
   font-size: 1em;
   color: #333;
+}
+
+.image-slider {
+  position: relative;
+  width: 100%; /* Adjust width as needed */
+  height: 400px; /* Set a fixed height for the slider */
+  overflow: hidden; /* Hide overflow if images exceed container size */
+}
+
+.slides {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s ease;
+}
+
+.slide {
+  min-width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Ensure images fit without cropping */
+}
+
+button.prev, button.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  z-index: 10;
+  padding: 10px; /* Optional: add some padding */
+  border-radius: 50%; /* Optional: make buttons round */
+  font-size: 20px; /* Optional: adjust font size */
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button.prev:hover, button.next:hover {
+  background-color: rgba(0, 0, 0, 0.8); /* Change color on hover */
+  transform: translateY(-50%) scale(1.1); /* Slightly enlarge button on hover */
+}
+
+button.prev {
+  left: 10px;
+}
+
+button.next {
+  right: 10px;
+}
+
+.slide {
+  position: relative;
+  min-width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.caption {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 14px;
 }
