@@ -87,5 +87,16 @@
         <guid isPermaLink="true">http://localhost:4000/2024-02-15-soham-chandak/</guid>
       </item>
     
+      <item>
+        <title>Search for new physics at the Large Hadron Collider</title>
+        <description>
+          Experimental High Energy Physics - 
+          Despite the success of the Standard Model in describing the interactions of elementary particles, observations that suggest the existence of additional phenomena remain. Many theories of physics beyond the Standard Model have been proposed that feature “final states” in high-energy...
+        </description>
+        <pubDate>Thu, 08 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024-02-08-shreyas-bakare/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-08-shreyas-bakare/</guid>
+      </item>
+    
   </channel>
 </rss>

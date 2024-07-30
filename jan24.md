@@ -16,8 +16,11 @@ image_directory: "assets/img/Jan24/"
 <div class="post-list">
   {% assign start_date = '2024-01-01' | date: '%s' %}
   {% assign end_date = '2024-06-30' | date: '%s' %}
+  
+  {% assign sorted_posts = site.posts | reverse %}
+  {% assign sorted_posts = sorted_posts | sort: 'date' %}
 
-  {% for post in site.posts %}
+  {% for post in sorted_posts %}
     {% assign post_date = post.date | date: '%s' %}
     {% if post_date >= start_date and post_date <= end_date %}
       <div class="post-box">
