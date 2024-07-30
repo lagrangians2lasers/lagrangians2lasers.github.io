@@ -3,7 +3,7 @@ layout: page
 title: "Aug '23"
 subtitle: August 2023 Semester
 wantimage: true
-image_directory: "assets/img/Aug24/"
+# image_directory: "assets/img/Aug24/"
 images:
   - path: "assets/img/Aug23/all1.jpg"
     caption: "L2L in Aug '23"
