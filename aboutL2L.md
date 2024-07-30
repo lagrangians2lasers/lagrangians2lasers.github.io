@@ -21,11 +21,10 @@ By participating in L2L, you'll stay connected with various developments across 
 
 This forum is not just about expanding your knowledge; it’s also an excellent opportunity to hone your presentation skills and build a network of like-minded individuals. Whether you’re passionate about quantum mechanics, astrophysics, particle physics, condensed matter, statistical physics or any other field, L2L offers a supportive community to share and grow.
 
-We meet on Thursdays at 6:30 PM in LHC 106.
+We meet on Wednesdays at 6:30 PM in LHC 106.
 
-Interested in presenting? Please fill out speaker's [Google Form]()
+Interested in presenting? Please fill out speaker's [Google Form]().
 
-Join L2L [WhatsApp group](https://chat.whatsapp.com/JMUyMXHGgXxBl9mI4NOWub) or follow us on [InstaGram](https://www.instagram.com/lagrangians2lasers/) to get new updates!
-
+To stay updated about the upcoming L2L sessions, join our [WhatsApp community](https://chat.whatsapp.com/JMUyMXHGgXxBl9mI4NOWub) and follow us on [InstaGram](https://www.instagram.com/lagrangians2lasers/).
 
 
