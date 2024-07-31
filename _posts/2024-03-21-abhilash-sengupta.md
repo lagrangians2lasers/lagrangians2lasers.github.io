@@ -13,7 +13,16 @@ tags: [THEORY, PARTICLE_PHY]
 comments: true
 mathjax: true
 author: Abhilash Sengupta
+# email: dhairya.bhandari (AT) students.iiserpune.ac.in
 position: "- MS student, University of Potsdam"
+# wantimage: true
+# pdf: "assets/pdfs/Aug23/Dhairya.pdf"
+# images:
+#   - path: "assets/img/Aug23/Dhairya.png"
+#   - path: "assets/img/Aug23/Dhairya3.JPG"
+#   - path: "assets/img/Aug23/Dhairya1.JPG"
+#   - path: "assets/img/Aug23/Dhairya2.JPG"
+#   - path: "assets/img/Aug23/Dhairya4.JPG"
 ---
 {: .box-note}
 Discuss what tachyons are, how they might make sense, how we tried (and failed) to detect them, and how they still don't actually make sense for the most part but are an interesting topic of discussion nonetheless.

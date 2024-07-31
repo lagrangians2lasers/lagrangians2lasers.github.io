@@ -26,8 +26,8 @@ images:
 ---
 
 <div class="post-list">
-  {% assign start_date = '2024-07-01' | date: '%s' %}
-  {% assign end_date = '2024-12-30' | date: '%s' %}
+  {% assign start_date = '2023-07-01' | date: '%s' %}
+  {% assign end_date = '2023-12-30' | date: '%s' %}
 
   {% assign sorted_posts = site.posts | reverse %}
   {% assign sorted_posts = sorted_posts | sort: 'date' %}
@@ -41,7 +41,7 @@ images:
         <p class="post-author">By {% if post.author %}{{ post.author }}{% else %}Unknown Author{% endif %}</p>
         {% if post.thumbnail-img %}
         <div class="post-thumbnail" style="text-align: center;">
-          <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}"
+          <img src="{{ post.thumbnail-img | relative_url }}" alt="{{ post.title }}"
          style="max-width: 200px; height: auto; display: block; margin: 0 auto;">
         </div>
         {% endif %}

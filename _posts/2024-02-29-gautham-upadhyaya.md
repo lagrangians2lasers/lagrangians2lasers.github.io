@@ -13,7 +13,16 @@ tags: [EXPERIMENT, OPTICS, LASERS]
 comments: true
 mathjax: true
 author: Gautham Upadhyaya
+# email: dhairya.bhandari (AT) students.iiserpune.ac.in
 position: "- 5th year BS-MS"
+# wantimage: true
+# pdf: "assets/pdfs/Aug23/Dhairya.pdf"
+# images:
+#   - path: "assets/img/Aug23/Dhairya.png"
+#   - path: "assets/img/Aug23/Dhairya3.JPG"
+#   - path: "assets/img/Aug23/Dhairya1.JPG"
+#   - path: "assets/img/Aug23/Dhairya2.JPG"
+#   - path: "assets/img/Aug23/Dhairya4.JPG"
 ---
 {: .box-note}
 Throughout history, precise measurement has been crucial in gaining a deeper understanding of the nature of things and even rewriting the laws of physics. The science of measuring with extreme precision is fascinating in itself, but what's equally intriguing is the physics and research behind the development of instruments that enable such precise measurements. The technology that emerges from this process advances metrology and has real-world applications that significantly impact our lives.

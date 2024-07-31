@@ -1015,6 +1015,13 @@ pre {
   margin-bottom: 0;
 }
 
+.blog-post h3 {
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  color: #404040;
+  margin: 0;
+}
+
 .center {
   display: block;
   margin: 0 auto;

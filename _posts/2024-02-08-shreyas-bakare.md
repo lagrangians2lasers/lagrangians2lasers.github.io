@@ -13,7 +13,16 @@ tags: [EXPERIMENT, PARTICLE_PHY, SIMULATION]
 comments: true
 mathjax: true
 author: Shreyas Bakare
+email: shreyas.bakare (AT) students.iiserpune.ac.in
 position: "- 4th year BS-MS"
+# wantimage: true
+# pdf: "assets/pdfs/Aug23/Dhairya.pdf"
+# images:
+#   - path: "assets/img/Aug23/Dhairya.png"
+#   - path: "assets/img/Aug23/Dhairya3.JPG"
+#   - path: "assets/img/Aug23/Dhairya1.JPG"
+#   - path: "assets/img/Aug23/Dhairya2.JPG"
+#   - path: "assets/img/Aug23/Dhairya4.JPG"
 ---
 {: .box-note}
 Despite the success of the Standard Model in describing the interactions of elementary particles, observations that suggest the existence of additional phenomena remain. Many theories of physics beyond the Standard Model have been proposed that feature "final states" in high-energy proton-proton collisions with exactly four leptons.

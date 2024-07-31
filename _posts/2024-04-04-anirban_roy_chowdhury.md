@@ -13,7 +13,16 @@ tags: [THEORY, ASTRO]
 comments: true
 mathjax: true
 author: Anirban Roy Chowdhury
+# email: dhairya.bhandari (AT) students.iiserpune.ac.in
 position: "- 5th year BS-MS"
+# wantimage: true
+# pdf: "assets/pdfs/Aug23/Dhairya.pdf"
+# images:
+#   - path: "assets/img/Aug23/Dhairya.png"
+#   - path: "assets/img/Aug23/Dhairya3.JPG"
+#   - path: "assets/img/Aug23/Dhairya1.JPG"
+#   - path: "assets/img/Aug23/Dhairya2.JPG"
+#   - path: "assets/img/Aug23/Dhairya4.JPG"
 ---
 {: .box-note}
 Supermassive Black Holes are (like the name implies) extremely massive black holes, weighing up to billions of times the mass of the Sun, present in the centers of galaxies. By their nature, they are also invisible and thus very difficult to detect. There are several poorly understood phenomena related to SMBHs, like their formation and how their close connection to several properties of their host galaxies. In this talk, I will discuss a method to measure the masses of these Supermassive Black Holes and how these masses help us further understand these mysterious objects.

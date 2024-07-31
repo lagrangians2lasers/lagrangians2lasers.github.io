@@ -43,6 +43,34 @@ layout: base
         {{ content }}
       </div>
 
+      <p></p>
+
+      {% if page.wantimage %}
+      <!-- PDF Printout -->
+      <h5 style="font-weight: bold;"><em>Resources</em></h5>
+      <div class="pdf-printout">
+        <iframe src="{{ page.pdf | relative_url }}" width="100%" height="550px"></iframe>
+      </div>
+      {% endif %}
+      <p></p>
+      <h5 style="font-weight: bold;"><em>Gallery</em></h5>
+      <div class="image-slider">
+        <div class="slides">
+          {% for image in page.images %}
+          <div class="slide">
+            <img src="{{ image.path | relative_url }}" alt="{{ image.caption }}">
+            {% if image.caption %}
+            <div class="caption">{{ image.caption }}</div>
+            {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+        <button class="prev" onclick="plusSlides(-1)">&lt;</button>
+        <button class="next" onclick="plusSlides(1)">&gt;</button>
+      </div>
+
+      <p></p>
+
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>

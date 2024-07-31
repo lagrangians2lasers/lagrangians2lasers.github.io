@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
     autoSlideInterval = setInterval(() => {
       index = (index < slideCount - 1) ? index + 1 : 0;
       updateSlider();
-    }, 3000); // Change slides every 2 seconds
+    }, 3500); // Change slides every 3.5 seconds
   }
 
   function stopAutoSlide() {

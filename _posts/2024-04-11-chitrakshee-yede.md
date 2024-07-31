@@ -13,7 +13,16 @@ tags: [EXPERIMENT, ML, PARTICLE_PHY, SIMULATION]
 comments: true
 mathjax: true
 author: Chitrakshee Yede
+# email: dhairya.bhandari (AT) students.iiserpune.ac.in
 position: "- HSF India Trainee"
+# wantimage: true
+# pdf: "assets/pdfs/Aug23/Dhairya.pdf"
+# images:
+#   - path: "assets/img/Aug23/Dhairya.png"
+#   - path: "assets/img/Aug23/Dhairya3.JPG"
+#   - path: "assets/img/Aug23/Dhairya1.JPG"
+#   - path: "assets/img/Aug23/Dhairya2.JPG"
+#   - path: "assets/img/Aug23/Dhairya4.JPG"
 ---
 {: .box-note}
 Over the last decade, machine learning techniques have been widely adopted by various domains in particle physics. I will discuss using such ML algorithms and simulations in particle physics analysis and the challenges they present. Then, I will introduce a new approach I have been working on, explaining how I built an ML-based pipeline to generate faster simulations in reduced dimensions.
