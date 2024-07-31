@@ -9,11 +9,11 @@ Time: 18:00  → 19:00
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/L-2.png
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, ML, PARTICLE_PHY, SIMULATION]
+tags: [EXPERIMENT, ML, PARTICLE_PHY, HEP, SIMULATION]
 comments: true
 mathjax: true
 author: Chitrakshee Yede
-# email: dhairya.bhandari (AT) students.iiserpune.ac.in
+email: chitraksheeyede542_AT_gmail.com
 position: "- HSF India Trainee"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"

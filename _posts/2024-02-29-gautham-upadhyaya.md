@@ -13,7 +13,7 @@ tags: [EXPERIMENT, OPTICS, LASERS]
 comments: true
 mathjax: true
 author: Gautham Upadhyaya
-# email: dhairya.bhandari (AT) students.iiserpune.ac.in
+email: mahalinga.upadhyaya (AT) students.iiserpune.ac.in
 position: "- 5th year BS-MS"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"

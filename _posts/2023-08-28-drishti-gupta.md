@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Reconstruction of Euler-Heisenberg Lagrangians
-subtitle: Condensed Matter Physics
-Location: LHC 304
-Time: 16:00  → 17:00
+subtitle: Particle Physics
+Location: LHC 107
+Time: 18:00  → 19:00
 # gh-repo:
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
@@ -13,8 +13,8 @@ tags: [THEORY, PARTICLE_PHY, QFT]
 comments: true
 mathjax: true
 author: Drishti Gupta
-email: drishti.gupta AT students.iiserpune.ac.in
-position: "- 3rd year BS-MS"
+email: drishti.gupta_AT_students.iiserpune.ac.in
+position: "- 5th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Drishti.pdf"
 images:

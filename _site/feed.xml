@@ -99,9 +99,75 @@
       </item>
     
       <item>
+        <title>Estimating Central BH Mass in Quasars using Reverberation mapping</title>
+        <description>
+          Astrophysics - 
+          Because of the sheer distance at which Quasars are found, the methods employed to measure the mass of their central black hole are very indirect. One such method is reverberation mapping, which achieves this by analyzing the spectrum of these...
+        </description>
+        <pubDate>Mon, 13 Nov 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-11-13-kartik-singh/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-11-13-kartik-singh/</guid>
+      </item>
+    
+      <item>
+        <title>Dark Matter Models</title>
+        <description>
+          Cosmology - 
+          This will be an introductory level talk about the various dark matter models physicists use to explain astrophysical observations. The change in the microphysics of dark matter particles can lead to very different cosmological observations. The talk will mostly be...
+        </description>
+        <pubDate>Mon, 06 Nov 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-11-06-soorya-narayan/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-11-06-soorya-narayan/</guid>
+      </item>
+    
+      <item>
+        <title>Supersymmetric CFT in 3D</title>
+        <description>
+          Particle Physics - 
+          I will explain what is CFT, what is supersymmetry?. Why do we want to use supersymmetry in CFT? Is there actually any supersymmetry in this universe? Even if it’s not, how can this help in our understanding of CFT or...
+        </description>
+        <pubDate>Mon, 23 Oct 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-10-23-shivang-yadav/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-10-23-shivang-yadav/</guid>
+      </item>
+    
+      <item>
+        <title>HIKE - CERN&apos;s New Kaon CP Violation Experiment</title>
+        <description>
+          Experimental High Energy Physics - 
+          CP violation was first discovered in Kaons which shattered the ‘mirror’ of physics once again, and since then Kaons have become synonymous with the concept of CP violation. To measure the same, a new experiment has been proposed at CERN...
+        </description>
+        <pubDate>Mon, 09 Oct 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-10-09-harrsh-goyal/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-10-09-harrsh-goyal/</guid>
+      </item>
+    
+      <item>
+        <title>CMS Collisions Exposed</title>
+        <description>
+          Experimental High Energy Physics - 
+          Compact Muon Solenoid (CMS) is one of the four detectors at the Large Hadron Collider(LHC) at CERN, where protons are collided at record COM energies of 13.6 TeV. At CMS, we try to find answers to some of the questions...
+        </description>
+        <pubDate>Mon, 11 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-09-11-soumya-sarkar/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-09-11-soumya-sarkar/</guid>
+      </item>
+    
+      <item>
+        <title>Knowledge-Based Statistical Potentials for Protein Folding</title>
+        <description>
+          Bio-Physics - 
+          I will be talking on a very old and still existing problem of protein folding in Statistical Mechanics. My project consisted of using Statistical Mechanics and Graph theory to come up with a theoretical hypothesis which takes into account multi-body...
+        </description>
+        <pubDate>Mon, 04 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023-09-04-dhruv-patel/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-09-04-dhruv-patel/</guid>
+      </item>
+    
+      <item>
         <title>Reconstruction of Euler-Heisenberg Lagrangians</title>
         <description>
-          Condensed Matter Physics - 
+          Particle Physics - 
           The Euler-Heisenberg Lagrangian (EHL) refers to non-linear corrections to Maxwell’s equations due to the interaction of electromagnetic fields with vacuum fluctuations of a charged field. One of the most exciting predictions of this formalism is the spontaneous production of particle...
         </description>
         <pubDate>Mon, 28 Aug 2023 00:00:00 -0400</pubDate>

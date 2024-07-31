@@ -13,7 +13,7 @@ tags: [EXPERIMENT, PLASMA_PHY]
 comments: true
 mathjax: true
 author: Shalini Das
-# email: dhairya.bhandari (AT) students.iiserpune.ac.in
+email: shalini.das (AT) students.iiserpune.ac.in
 position: "- 4th year BS-MS"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"

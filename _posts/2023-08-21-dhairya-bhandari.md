@@ -13,7 +13,7 @@ tags: [EXPERIMENT, CON_MAT, MATERIAL]
 comments: true
 mathjax: true
 author: Dhairya Bhandari
-email: dhairya.bhandari (AT) students.iiserpune.ac.in
+email: dhairya.bhandari_AT_students.iiserpune.ac.in
 position: "- 3rd year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Dhairya.pdf"

@@ -3,14 +3,26 @@ layout: page
 title: "Jan '23"
 subtitle: January 2023 Semester
 wantimage: false
-image_directory: "assets/img/Jan23/"
+# image_directory: "assets/img/Aug24/"
 # images:
-  # - path: "assets/img/Jan24/da.jpg"
-  #   caption: "Caption for image 1"
-  # - path: "assets/img/Jan24/dwd.jpg"
-  #   caption: "Caption for image 2"
-  # - path: "assets/img/Jan24/ssd.jpg"
-  # Add more images as needed
+#   - path: "assets/img/Aug23/all1.jpg"
+#     caption: "L2L in Aug '23"
+#   - path: "assets/img/Aug23/Dhairya.png"
+#     caption: "Dhairya Bhandari's Talk - Aug '23"
+#   - path: "assets/img/Aug23/Drishti.jpg"
+#     caption: "Drishti Gupta's Talk - Aug '23"
+#   - path: "assets/img/Aug23/Dhruv.jpg"
+#     caption: "Dhruv Patel's Talk - Aug '23"
+#   - path: "assets/img/Aug23/Soumya.jpg"
+#     caption: "Soumya Sarkar's Talk - Aug '23"
+#   - path: "assets/img/Aug23/Harrsh.jpg"
+#     caption: "Harrsh Goyal's Talk - Aug '23"
+#   - path: "assets/img/Aug23/Shivang.jpg"
+#     caption: "Shivang Yadav's Talk - Aug '23"
+#   - path: "assets/img/Aug23/Soorya.jpg"
+#     caption: "Soorya Narayan's Talk - Aug '23"
+#   - path: "assets/img/Aug23/Kartik.jpg"
+#     caption: "Kartik Singh's Talk - Aug '23"
 ---
 
 <div class="post-list">
@@ -29,7 +41,7 @@ image_directory: "assets/img/Jan23/"
         <p class="post-author">By {% if post.author %}{{ post.author }}{% else %}Unknown Author{% endif %}</p>
         {% if post.thumbnail-img %}
         <div class="post-thumbnail" style="text-align: center;">
-          <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}"
+          <img src="{{ post.thumbnail-img | relative_url }}" alt="{{ post.title }}"
          style="max-width: 200px; height: auto; display: block; margin: 0 auto;">
         </div>
         {% endif %}

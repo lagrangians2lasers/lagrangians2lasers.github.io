@@ -13,7 +13,7 @@ tags: [THEORY, PARTICLE_PHY]
 comments: true
 mathjax: true
 author: Abhilash Sengupta
-# email: dhairya.bhandari (AT) students.iiserpune.ac.in
+email: abhilash.sengupta@mpikg.mpg.de
 position: "- MS student, University of Potsdam"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"

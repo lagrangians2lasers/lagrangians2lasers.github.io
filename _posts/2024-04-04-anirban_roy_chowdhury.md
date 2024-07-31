@@ -13,8 +13,8 @@ tags: [THEORY, ASTRO]
 comments: true
 mathjax: true
 author: Anirban Roy Chowdhury
-# email: dhairya.bhandari (AT) students.iiserpune.ac.in
-position: "- 5th year BS-MS"
+email: anirban.roychoudhury_AT_students.iiserpune.ac.in
+position: "- th year BS-MS"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 # images:
