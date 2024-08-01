@@ -9,12 +9,12 @@ Time: 18:00  → 19:00
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Soorya-thumb.png"
 # share-img: /assets/img/.jpg
-tags: [THEORY, COSMO, DM, ASTRO]
+tags: [COSMO, DM, ASTRO, THEORY]
 comments: true
 mathjax: true
 author: Soorya Narayan
 email: soorya.narayan_AT_students.iiserpune.ac.in
-position: "- 5th year BS-MS"
+position: "5th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Soorya.pdf"
 images:

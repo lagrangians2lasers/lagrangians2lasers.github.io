@@ -9,12 +9,12 @@ Time: 18:30  → 19:30
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/.png
 # share-img: /assets/img/.jpg
-tags: [THEORY, ASTRO]
+tags: [ASTRO, THEORY]
 comments: true
 mathjax: true
 author: Anirban Roy Chowdhury
 email: anirban.roychoudhury_AT_students.iiserpune.ac.in
-position: "- th year BS-MS"
+position: "5th year BS-MS"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 # images:

@@ -9,12 +9,12 @@ Time: 18:30  → 19:30
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/.png
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, NANO_TECH, BIOPHY]
+tags: [NANO_TECH, BIOPHY, EXPERIMENT]
 comments: true
 mathjax: true
 author: Dhairya Bhandari
 email: dhairya.bhandari (AT) students.iiserpune.ac.in
-position: "- 3rd year BS-MS"
+position: "3rd year BS-MS"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 # images:

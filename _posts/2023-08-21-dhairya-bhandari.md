@@ -9,12 +9,12 @@ Time: 16:00  → 17:00
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Dhairya-thumb.png"
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, CON_MAT, MATERIAL]
+tags: [CON_MAT, MATERIAL, EXPERIMENT]
 comments: true
 mathjax: true
 author: Dhairya Bhandari
 email: dhairya.bhandari_AT_students.iiserpune.ac.in
-position: "- 3rd year BS-MS"
+position: "3rd year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 images:

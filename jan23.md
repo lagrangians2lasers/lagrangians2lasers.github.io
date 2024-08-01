@@ -2,27 +2,26 @@
 layout: page
 title: "Jan '23"
 subtitle: January 2023 Semester
-wantimage: false
-# image_directory: "assets/img/Aug24/"
-# images:
-#   - path: "assets/img/Aug23/all1.jpg"
-#     caption: "L2L in Aug '23"
-#   - path: "assets/img/Aug23/Dhairya.png"
-#     caption: "Dhairya Bhandari's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Drishti.jpg"
-#     caption: "Drishti Gupta's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Dhruv.jpg"
-#     caption: "Dhruv Patel's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Soumya.jpg"
-#     caption: "Soumya Sarkar's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Harrsh.jpg"
-#     caption: "Harrsh Goyal's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Shivang.jpg"
-#     caption: "Shivang Yadav's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Soorya.jpg"
-#     caption: "Soorya Narayan's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Kartik.jpg"
-#     caption: "Kartik Singh's Talk - Aug '23"
+wantimage: true
+images:
+  - path: "assets/img/Jan23/all.png"
+    caption: "by the end of January 2023 semester"
+  - path: "assets/img/Jan23/Soumil.png"
+    caption: "Soumil Kelkar's Talk - Jan '23"
+  - path: "assets/img/Jan23/Amogh.png"
+    caption: "Amogh Rakesh's Talk - Jan '23"
+  - path: "assets/img/Jan23/Shivang.png"
+    caption: "Shivang Yadav's Talk - Jan '23"
+  - path: "assets/img/Jan23/Parijat.png"
+    caption: "Parijat Banerjee's Talk - Feb '23"
+  - path: "assets/img/Jan23/Kaustubh.png"
+    caption: "Kaustubh Gupta's Talk - Mar '23"
+  - path: "assets/img/Jan23/Pranav.png"
+    caption: "Pranav Maheshwari's Talk - Mar '23"
+  - path: "assets/img/Jan23/Vishal.png"
+    caption: "Vishal's Talk - Mar '23"
+  - path: "assets/img/Jan23/Vedhanth.png"
+    caption: "S.V.U. Vedhanth's Talk - Apr '23"
 ---
 
 <div class="post-list">

@@ -9,12 +9,12 @@ Time: 18:30  → 19:30
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/.png
 # share-img: /assets/img/.jpg
-tags: [THEORY, PARTICLE_PHY]
+tags: [PARTICLE_PHY, THEORY]
 comments: true
 mathjax: true
 author: Abhilash Sengupta
 email: abhilash.sengupta@mpikg.mpg.de
-position: "- MS student, University of Potsdam"
+position: "MS student, University of Potsdam"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 # images:

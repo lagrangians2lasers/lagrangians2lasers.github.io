@@ -9,12 +9,12 @@ Time: 18:00  → 19:00
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Dhruv-thumb.png"
 # share-img: /assets/img/.jpg
-tags: [THEORY, BIO_PHY, STAT_MECH, PROTEIN]
+tags: [BIO_PHY, STAT_MECH, PROTEIN, THEORY]
 comments: true
 mathjax: true
 author: Dhruv Patel
 email: patel.dhruv_AT_students.iiserpune.ac.in
-position: "- 4th year BS-MS"
+position: "4th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Dhruv.pdf"
 images:

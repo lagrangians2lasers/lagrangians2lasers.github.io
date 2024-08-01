@@ -9,12 +9,12 @@ Time: 18:00  → 19:00
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Drishti-thumb.png"
 # share-img: /assets/img/.jpg
-tags: [THEORY, PARTICLE_PHY, QFT]
+tags: [PARTICLE_PHY, QFT, THEORY]
 comments: true
 mathjax: true
 author: Drishti Gupta
 email: drishti.gupta_AT_students.iiserpune.ac.in
-position: "- 5th year BS-MS"
+position: "5th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Drishti.pdf"
 images:

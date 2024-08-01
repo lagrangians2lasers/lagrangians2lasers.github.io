@@ -9,12 +9,12 @@ Time: 18:00  → 19:00
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Soumya-thumb.png"
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, HEP, PARTICLE_PHY, SIMULATION]
+tags: [HEP, PARTICLE_PHY, SIMULATION, EXPERIMENT]
 comments: true
 mathjax: true
 author: Soumya Sarkar
 email: soumya.sarkar_AT_students.iiserpune.ac.in 
-position: "- 5th year BS-MS"
+position: "5th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Soumya.pdf"
 images:

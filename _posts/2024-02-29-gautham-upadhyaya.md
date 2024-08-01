@@ -9,12 +9,12 @@ Time: 18:30  → 19:30
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/.png
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, OPTICS, LASERS]
+tags: [OPTICS, LASERS, EXPERIMENT]
 comments: true
 mathjax: true
 author: Gautham Upadhyaya
 email: mahalinga.upadhyaya (AT) students.iiserpune.ac.in
-position: "- 5th year BS-MS"
+position: "5th year BS-MS"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 # images:

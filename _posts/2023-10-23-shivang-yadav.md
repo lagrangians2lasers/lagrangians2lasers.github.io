@@ -9,12 +9,12 @@ Time: 18:00  → 19:00
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Shivang-thumb.png"
 # share-img: /assets/img/.jpg
-tags: [THEORY, CFT, PARTICLE_PHY, SUSY, QFT]
+tags: [CFT, PARTICLE_PHY, SUSY, QFT, THEORY]
 comments: true
 mathjax: true
 author: Shivang Yadav
 email: shivang.yadav_AT_students.iiserpune.ac.in 
-position: "- 5th year BS-MS"
+position: "5th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Shivang.pdf"
 images:

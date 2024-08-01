@@ -9,12 +9,12 @@ Time: 18:00  → 19:00
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Kartik-thumb.png"
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, ASTRO, QUASAR]
+tags: [ASTRO, QUASAR, EXPERIMENT]
 comments: true
 mathjax: true
 author: Kartik Singh
 email: kartik.singh_AT_students.iiserpune.ac.in
-position: "- 5th year BS-MS"
+position: "5th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Kartik.pdf"
 images:
@@ -24,5 +24,5 @@ images:
 ---
 {: .box-note}
 Because of the sheer distance at which Quasars are found, the methods employed to measure the mass of their central black hole are very indirect. One such method is reverberation mapping, which achieves this by analyzing the spectrum of these galaxies.
-
+\
 I will briefly cover the basic terminology/theory concerning Quasars, and then talk about what reverberation mapping is and how it is implemented.

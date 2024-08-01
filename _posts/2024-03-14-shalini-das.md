@@ -9,12 +9,12 @@ Time: 18:30  → 19:30
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/.png
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, PLASMA_PHY]
+tags: [PLASMA_PHY, EXPERIMENT]
 comments: true
 mathjax: true
 author: Shalini Das
 email: shalini.das (AT) students.iiserpune.ac.in
-position: "- 4th year BS-MS"
+position: "4th year BS-MS"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 # images:

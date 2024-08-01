@@ -9,12 +9,12 @@ Time: 18:00  → 19:00
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Harrsh-thumb.png"
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, HEP, PARTICLE_PHY, SIMULATION]
+tags: [HEP, PARTICLE_PHY, SIMULATION, EXPERIMENT]
 comments: true
 mathjax: true
 author: Harrsh Goyal
 email: harrsh.goyal_AT_students.iiserpune.ac.in 
-position: "- 4th year BS-MS"
+position: "4th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Aug23/Harrsh.pdf"
 images:

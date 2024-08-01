@@ -9,12 +9,12 @@ Time: 18:30  → 19:30
 # cover-img: /assets/img/.jpg
 # thumbnail-img: /assets/img/L-2.png
 # share-img: /assets/img/.jpg
-tags: [EXPERIMENT, PARTICLE_PHY, SIMULATION]
+tags: [PARTICLE_PHY, EHEP, EXPERIMENT]
 comments: true
 mathjax: true
 author: Shreyas Bakare
 email: shreyas.bakare (AT) students.iiserpune.ac.in
-position: "- 4th year BS-MS"
+position: "4th year BS-MS"
 # wantimage: true
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 # images:
