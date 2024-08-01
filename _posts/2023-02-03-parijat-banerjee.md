@@ -18,9 +18,10 @@ position: "4th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Jan23/Parijat.pdf"
 images:
-  # - path: "assets/img/Jan23/Parijat.jpg"
-  # - path: "assets/img/Jan23/Parijat1.jpg"
-  # - path: "assets/img/Jan23/Parijat2.jpg"
+  - path: "assets/img/Jan23/Parijat.png"
+  - path: "assets/img/Jan23/Parijat1.jpg"
+  - path: "assets/img/Jan23/Parijat2.jpg"
+  - path: "assets/img/Jan23/Parijat3.jpg"
 ---
 {: .box-note}
 I will present a search for microscopic black holes in a like-sign dimuon final state in proton–proton collisions at √s = 8 TeV. The data were collected with the ATLAS detector at the LHC in 2012 and correspond to an integrated luminosity of 20.3 fb⁻¹. Using a high track multiplicity requirement, 0.6 ± 0.2 background events from Standard Model processes are predicted. I will motivate the search using the Hierarchy Problem and talk about a few possible solutions.

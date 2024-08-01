@@ -18,9 +18,8 @@ position: "4th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Jan23/Amogh.pdf"
 images:
-  # - path: "assets/img/Jan23/Amogh.jpg"
-  # - path: "assets/img/Jan23/Amogh1.jpg"
-  # - path: "assets/img/Jan23/Amogh2.jpg"
+  - path: "assets/img/Jan23/Amogh.png"
+  - path: "assets/img/Jan23/Amogh1.jpg"
 ---
 {: .box-note}
 One of the interesting things about interacting many-body systems is the presence of different phases where the model behaves in a qualitatively different way. Usually, these different phases are distinguished by the presence or absence of 'order', and the transitions between them are described using an 'order parameter'. However, it is seen that this prescription is unable to describe the phases of the XY model in 2 dimensions. In fact this kind of phase transition, which is termed Berezinskii-Kosterlitz-Thouless transition, occurs in a variety of systems. In this talk, I will try to explain this transition which is one of the earliest examples of a topological phase transition.

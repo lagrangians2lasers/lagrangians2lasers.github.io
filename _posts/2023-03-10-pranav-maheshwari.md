@@ -18,9 +18,10 @@ position: "4th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Jan23/Pranav.pdf"
 images:
-  # - path: "assets/img/Jan23/Pranav.jpg"
-  # - path: "assets/img/Jan23/Pranav1.jpg"
-  # - path: "assets/img/Jan23/Pranav2.jpg"
+  - path: "assets/img/Jan23/Pranav.png"
+  - path: "assets/img/Jan23/Pranav1.jpg"
+  - path: "assets/img/Jan23/Pranav2.jpg"
+  - path: "assets/img/Jan23/Pranav3.jpg"
 ---
 {: .box-note}
 Quantum Computing has a lot of possible advantageous uses over classical computing but presently the field is in its infancy. The biggest challenge for it is to get rid of noise or become robust against errors. Dealing with noise in physical systems is the major crux of Quantum Information. Quantum Error Correction Codes are the essential requirement for fault tolerant computing which can make Quantum Computing truly implementable.
