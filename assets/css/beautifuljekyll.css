@@ -1293,3 +1293,25 @@ button.next {
     display: block;
   }
 }
+
+.event-details {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  font-weight: normal;
+}
+.event-details span {
+  color: rgb(106, 20, 7);
+  margin-right: 5px;
+}
+.event-details .date-time {
+  flex: 1;
+}
+.event-details .location {
+  flex: 1;
+}
+@media (max-width: 600px) {
+  .event-details {
+    flex-direction: column;
+  }
+}

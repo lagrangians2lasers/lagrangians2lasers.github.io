@@ -62,7 +62,15 @@ layout: page
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        <h6 style="font-weight: normal;"><span style="color: rgb(106, 20, 7);"><i class="fas fa-calendar-alt">  </i>  </span>  {{ post.date | date: date_format }} | <span style="color: rgb(106, 20, 7);"><i class="fas fa-clock"></i>  </span>  {{ post.Time }}  |    <span style="color: rgb(106, 20, 7);"><i class="fas fa-map-marker-alt"></i></span>    {{ post.Location }}</h6>  
+        <h6 class="event-details">
+          <span class="date-time">
+            <i class="fas fa-calendar-alt"></i> {{ post.date | date: date_format }}
+            <span class="separator">|</span>
+            <i class="fas fa-clock"></i> {{ post.Time }}
+            <span class="separator">|</span>
+            <i class="fas fa-map-marker-alt"> </i> {{ post.Location }}
+            </span>
+        </h6>
       </p>
 
       {% if thumbnail != "" %}

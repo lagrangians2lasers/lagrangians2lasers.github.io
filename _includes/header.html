@@ -37,7 +37,15 @@
           {% endif %}
           {% if include.type == "post" %} 
               {% if page.author %}
-              <h6 style="font-weight: normal;"><span style="color: rgb(106, 20, 7);"><i class="fas fa-calendar-alt">  </i>  </span>  {{ page.date | date: date_format }} | <span style="color: rgb(106, 20, 7);"><i class="fas fa-clock"></i>  </span>  {{ page.Time }}  |    <span style="color: rgb(106, 20, 7);"><i class="fas fa-map-marker-alt"></i></span>    {{ page.Location }}</h6>
+              <h6 class="event-details">
+                <span class="date-time">
+                  <i class="fas fa-calendar-alt"></i> {{ page.date | date: date_format }}
+                  <span class="separator">|</span>
+                  <i class="fas fa-clock"></i> {{ page.Time }}
+                  <span class="separator">|</span>
+                  <i class="fas fa-map-marker-alt"> </i> {{ page.Location }}
+                  </span>
+              </h6>
               <p></p>
               <h5 style="font-weight: normal;">By <strong>{{ page.author | strip_html }}</strong></h5> 
               <h6 style="font-weight: normal;" style="font-size: large">{{page.position}}</h6>
