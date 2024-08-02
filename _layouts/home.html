@@ -11,7 +11,7 @@ layout: page
   <!-- Three lines below are to be edited to get the home feed posts sorted normally -->
   {% assign sorted_posts = site.posts | reverse %}
   {% assign sorted_posts = sorted_posts | sort: 'date' %}
-  {% for post in sorted_posts %} <!--posts -->
+  {% for post in posts %} <!--sorted_posts -->
   <li class="post-preview">
     <article>
 
@@ -45,6 +45,9 @@ layout: page
       {% endif %}
 
       <a href="{{ post.url | absolute_url }}">
+        {% if post.date > site.time %}
+          <h3 class="blinking-text" style="color: rgb(106, 20, 7);">[Upcoming!]</h3>
+          {% endif %}
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
         {% if post.subtitle %}
