@@ -39,16 +39,23 @@
               {% if page.author %}
               <div class="event-details">
                 <div class="event-details-small-screen">
-                  <i class="fas fa-map-marker-alt"></i> {{ post.Location }}
+                  <h6>
+                    <span class="date-time">
+                      <i class="fas fa-calendar-alt"></i> {{ page.date | date: date_format }}
+                      <span class="separator">|</span>
+                      <i class="fas fa-clock"></i> {{ page.Time }}
+                    </span>
+                    <i class="fas fa-map-marker-alt"></i> {{ page.Location }}
+                  </h6>
                 </div>
                 <div class="event-details-large-screen">
                   <h6>
                     <span class="date-time">
-                      <i class="fas fa-calendar-alt"></i> {{ post.date | date: date_format }}
+                      <i class="fas fa-calendar-alt"></i> {{ page.date | date: date_format }}
                       <span class="separator">|</span>
-                      <i class="fas fa-clock"></i> {{ post.Time }}
+                      <i class="fas fa-clock"></i> {{ page.Time }}
                       <span class="separator">|</span>
-                      <i class="fas fa-map-marker-alt"></i> {{ post.Location }}
+                      <i class="fas fa-map-marker-alt"></i> {{ page.Location }}
                     </span>
                   </h6>
                 </div>

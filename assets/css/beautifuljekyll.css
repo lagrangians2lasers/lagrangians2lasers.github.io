@@ -1313,11 +1313,14 @@ button.next {
 
 .event-details-small-screen {
   display: none;
+  font-style: normal;
 }
 
 .event-details-large-screen {
   display: block;
+  font-style: normal;
 }
+
 
 @media (max-width: 600px) {
   .event-details-large-screen {
