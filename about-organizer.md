@@ -21,12 +21,12 @@ title: L2L Organizers
         <div class="organizer-info">
           <h2>Shreyas Bakare</h2>
           <h3>5th year BS-MS</h3>
+          <p><strong>Tenure:</strong> May '24 - Present</p>
           <p>Building on Parijat's vision of L2L to bridge communication gaps between subfields of physics, I am encouraging younger students to engage more actively, aiming to close the gap between junior and senior students while ensuring the continuity of the club’s existing workflow.
 
           To further expand and nurture a more inclusive and vibrant community, I am developing a active social media presence and have created this website to better organize and present L2L.
 
           I appreciate the support from our speakers and attendees and look forward to further enriching and strengthening Lagrangians to Lasers.</p>
-          <p><strong>Tenure:</strong> May '24 - Present</p>
         </div>
       </div>
     </a>
@@ -42,10 +42,10 @@ title: L2L Organizers
         <div class="organizer-info">
           <h2>Parijat Banerjee</h2>
           <h3>BS-MS (2019-2024)</h3>
+          <p><strong>Tenure:</strong> Jan '23 - Apr '24</p>
           <p>Throughout my tenure at IISER, I noticed a disconnect between various fields of physics and a lack of discussion of ideas among students. I decided to start a journal club as a platform primarily for undergrads interested in different fields of physics to communicate their research interests among peers.
 
 I am thankful to all the speakers and attendees for making this a success. I look forward to more engaging discussions in the next editions of Lagrangians To Lasers!</p>
-          <p><strong>Tenure:</strong> Jan '23 - Apr '24</p>
         </div>
       </div>
     <!-- </a> -->
