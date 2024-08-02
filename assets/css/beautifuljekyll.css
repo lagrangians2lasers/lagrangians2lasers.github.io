@@ -1279,3 +1279,17 @@ button.next {
   animation: blink 2s infinite;
 }
 
+/* Default logo for larger screens */
+.logo-small {
+  display: none;
+}
+
+/* Show the small logo and hide the large logo for small screens */
+@media (max-width: 768px) {
+  .logo-large {
+    display: none;
+  }
+  .logo-small {
+    display: block;
+  }
+}
