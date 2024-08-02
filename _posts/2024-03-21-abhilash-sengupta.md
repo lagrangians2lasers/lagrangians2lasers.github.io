@@ -15,7 +15,7 @@ mathjax: true
 author: Abhilash Sengupta
 email: abhilash.sengupta@mpikg.mpg.de
 position: "MS student, University of Potsdam"
-# wantimage: true
+wantimage: false
 # pdf: "assets/pdfs/Aug23/Dhairya.pdf"
 # images:
 #   - path: "assets/img/Aug23/Dhairya.png"
