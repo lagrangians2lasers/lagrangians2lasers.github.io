@@ -8,7 +8,10 @@ layout: page
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
+  <!-- Three lines below are to be edited to get the home feed posts sorted normally -->
+  {% assign sorted_posts = site.posts | reverse %}
+  {% assign sorted_posts = sorted_posts | sort: 'date' %}
+  {% for post in sorted_posts %}
   <li class="post-preview">
     <article>
 
