@@ -20,7 +20,7 @@ title: L2L Organizers
         </div>
         <div class="organizer-info">
           <h2>Shreyas Bakare</h2>
-          <h3>5th year BS-MS</h3>
+          <h3>5th year BS-MS (2020-2025)</h3>
           <p><strong>Tenure:</strong> May '24 - Present</p>
           <p>Building on Parijat's vision of L2L to bridge communication gaps between subfields of physics, I am encouraging younger students to engage more actively, aiming to close the gap between junior and senior students while ensuring the continuity of the club’s existing workflow.
 
