@@ -2,21 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lagrangians2lasers.github.io/</loc>
-    <lastmod>2024-07-25</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://lagrangians2lasers.github.io/about</loc>
-    <lastmod>2024-07-25</lastmod>
+    <loc>https://lagrangians2lasers.github.io/aboutL2L</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lagrangians2lasers.github.io/contact</loc>
-    <lastmod>2024-07-25</lastmod>
+    <loc>https://lagrangians2lasers.github.io/about-organizer</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Add more URLs as needed -->
+  <url>
+    <loc>https://lagrangians2lasers.github.io/jan23</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lagrangians2lasers.github.io/jan24</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lagrangians2lasers.github.io/aug23</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lagrangians2lasers.github.io/aug24</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lagrangians2lasers.github.io/pics</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
