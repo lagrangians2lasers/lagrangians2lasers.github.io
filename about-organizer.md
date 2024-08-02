@@ -109,6 +109,7 @@ I am thankful to all the speakers and attendees for making this a success. I loo
     margin-left: 20px; /* Space between image and text */
     width: 250px; /* Adjust width of photo container */
     margin-right: 20px; /* Space between image and text */
+    margin-bottom: 20px; /* Space between image and text */
   }
 
   .organizer-photo {
