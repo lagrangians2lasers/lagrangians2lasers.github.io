@@ -89,7 +89,7 @@ I am thankful to all the speakers and attendees for making this a success. I loo
   .organizer {
     display: flex;
     flex-direction: row; /* Default to row for larger screens */
-    align-items: center; /* Center align items vertically */
+    align-items: flex-start; /* Align items at the top */
     margin-bottom: 50px;
     border: 1px solid #dee2e6; /* Light border for each organizer */
     border-radius: 10px;
@@ -106,11 +106,10 @@ I am thankful to all the speakers and attendees for making this a success. I loo
 
   .organizer-photo-container {
     margin-left: 20px; /* Space between image and text */
-    margin-right: 20px; /* Space between image and text */
     margin-top: 20px; /* Space between image and text */
+    width: 250px; /* Adjust width of photo container */
+    margin-right: 20px; /* Space between image and text */
     margin-bottom: 20px; /* Space between image and text */
-    width: 240px; /* Adjust width of photo container */
-    
   }
 
   .organizer-photo {
@@ -154,8 +153,10 @@ I am thankful to all the speakers and attendees for making this a success. I loo
     }
 
     .organizer-photo-container {
-      margin-right: 0; /* Remove right margin for stacked layout */
-      margin-bottom: 20px; /* Add space below image */
+      margin-left: 20px; /* Space between image and text */
+      margin-top: 20px; /* Space between image and text */
+      margin-right: 20px; /* Space between image and text */
+      margin-bottom: 20px; /* Space between image and text */
     }
   }
 </style>
