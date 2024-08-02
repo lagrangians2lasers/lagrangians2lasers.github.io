@@ -66,21 +66,25 @@ layout: page
           <div class="event-details-small-screen">
             <h6>
               <span class="date-time">
-                <i class="fas fa-calendar-alt"></i> {{ post.date | date: date_format }}
+                <i class="fas fa-calendar-alt"></i> <i>{{ post.date | date: date_format }}</i>
                 <span class="separator">|</span>
-                <i class="fas fa-clock"></i> {{ post.Time }}
+                <i class="fas fa-clock"></i> <i>{{ post.Time}}</i> 
               </span>
-              <i class="fas fa-map-marker-alt"></i> {{ post.Location }}
+            </h6>
+            <h6>
+              <span class="date-time">
+                <i class="fas fa-map-marker-alt"></i> <i>{{ post.Location}}</i> 
+              </span>
             </h6>
           </div>
           <div class="event-details-large-screen">
             <h6>
               <span class="date-time">
-                <i class="fas fa-calendar-alt"></i> <i style="font-style: normal;">{{ post.date | date: date_format }}
+                <i class="fas fa-calendar-alt"></i> <i>{{ post.date | date: date_format }}</i>
                 <span class="separator">|</span>
-                <i class="fas fa-clock"></i> {{ post.Time }}
+                <i class="fas fa-clock"></i> <i>{{ post.Time}}</i> 
                 <span class="separator">|</span>
-                <i class="fas fa-map-marker-alt"></i> {{ post.Location }}
+                <i class="fas fa-map-marker-alt"></i> <i>{{ post.Location}}</i> 
               </span>
             </h6>
           </div>

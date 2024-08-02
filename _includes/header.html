@@ -41,21 +41,25 @@
                 <div class="event-details-small-screen">
                   <h6>
                     <span class="date-time">
-                      <i class="fas fa-calendar-alt"></i> {{ page.date | date: date_format }}
+                      <i class="fas fa-calendar-alt"></i> <i>{{ page.date | date: date_format }}</i>
                       <span class="separator">|</span>
-                      <i class="fas fa-clock"></i> {{ page.Time }}
+                      <i class="fas fa-clock"></i> <i> {{ page.Time }}</i>
                     </span>
-                    <i class="fas fa-map-marker-alt"></i> {{ page.Location }}
+                  </h6>
+                  <h6>
+                    <span class="date-time">
+                      <i class="fas fa-map-marker-alt"></i> <i> {{ page.Location }}</i>
+                    </span>
                   </h6>
                 </div>
                 <div class="event-details-large-screen">
                   <h6>
                     <span class="date-time">
-                      <i class="fas fa-calendar-alt"></i> {{ page.date | date: date_format }}
+                      <i class="fas fa-calendar-alt"></i> <i>{{ page.date | date: date_format }}</i>
                       <span class="separator">|</span>
-                      <i class="fas fa-clock"></i> {{ page.Time }}
+                      <i class="fas fa-clock"></i> <i> {{ page.Time }}</i>
                       <span class="separator">|</span>
-                      <i class="fas fa-map-marker-alt"></i> {{ page.Location }}
+                      <i class="fas fa-map-marker-alt"></i> <i> {{ page.Location }}</i>
                     </span>
                   </h6>
                 </div>
