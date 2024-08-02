@@ -88,8 +88,8 @@ I am thankful to all the speakers and attendees for making this a success. I loo
 
   .organizer {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
+    flex-direction: row; /* Default to row for larger screens */
+    align-items: center; /* Center align items vertically */
     margin-bottom: 50px;
     border: 1px solid #dee2e6; /* Light border for each organizer */
     border-radius: 10px;
@@ -105,19 +105,19 @@ I am thankful to all the speakers and attendees for making this a success. I loo
   }
 
   .organizer-photo-container {
-    flex: 1;
-    margin-right: 20px;
+    width: 250px; /* Adjust width of photo container */
+    margin-right: 20px; /* Space between image and text */
   }
 
   .organizer-photo {
-    width: 100%;
+    width: 100%; /* Set image to take full width of container */
     height: auto;
     object-fit: cover;
     border-radius: 10px;
   }
 
   .organizer-info {
-    flex: 2;
+    flex: 1; /* Allow info container to take remaining space */
     padding: 20px;
   }
 
@@ -141,5 +141,17 @@ I am thankful to all the speakers and attendees for making this a success. I loo
 
   strong {
     color: #495057;
+  }
+
+  /* Media Query for smaller screens */
+  @media (max-width: 768px) {
+    .organizer {
+      flex-direction: column; /* Stack elements vertically on small screens */
+    }
+
+    .organizer-photo-container {
+      margin-right: 0; /* Remove right margin for stacked layout */
+      margin-bottom: 20px; /* Add space below image */
+    }
   }
 </style>
