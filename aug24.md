@@ -36,6 +36,7 @@ wantimage: false
     {% assign post_date = post.date | date: '%s' %}
     {% if post_date >= start_date and post_date <= end_date %}
       <div class="post-box">
+        <h3 class="blinking-text" style="color: rgb(106, 20, 7);">[Upcoming!]</h3>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
         <p class="post-author">By {% if post.author %}{{ post.author }}{% else %}Unknown Author{% endif %}</p>
