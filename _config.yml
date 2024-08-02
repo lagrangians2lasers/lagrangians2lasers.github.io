@@ -47,7 +47,7 @@ avatar: "/assets/img/new_logo.jpeg"
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 title-img: "/assets/img/new_ltl1333.png"
-
+smtitle-img: "/assets/img/new_ltlsmall.png"
 
 #####################################
 # --- Footer social media links --- #
