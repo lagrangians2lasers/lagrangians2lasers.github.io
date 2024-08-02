@@ -1310,3 +1310,21 @@ button.next {
 .event-details .location {
   flex: 1;
 }
+
+.event-details-small-screen {
+  display: none;
+}
+
+.event-details-large-screen {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .event-details-large-screen {
+    display: none;
+  }
+
+  .event-details-small-screen {
+    display: block;
+  }
+}
