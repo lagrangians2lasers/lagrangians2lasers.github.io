@@ -41,7 +41,7 @@ title: L2L Organizers
         </div>
         <div class="organizer-info">
           <h2>Parijat Banerjee</h2>
-          <h3></h3>
+          <h3>BS-MS (2019-2024)</h3>
           <p>Throughout my tenure at IISER, I noticed a disconnect between various fields of physics and a lack of discussion of ideas among students. I decided to start a journal club as a platform primarily for undergrads interested in different fields of physics to communicate their research interests among peers.
 
 I am thankful to all the speakers and attendees for making this a success. I look forward to more engaging discussions in the next editions of Lagrangians To Lasers!</p>
