@@ -153,10 +153,10 @@ I am thankful to all the speakers and attendees for making this a success. I loo
     }
 
     .organizer-photo-container {
-      margin-left: 20px; /* Space between image and text */
-      margin-top: 20px; /* Space between image and text */
-      margin-right: 20px; /* Space between image and text */
-      margin-bottom: 20px; /* Space between image and text */
+      margin-left: 15px; /* Space between image and text */
+      margin-top: 15px; /* Space between image and text */
+      margin-right: 15px; /* Space between image and text */
+      margin-bottom: 15px; /* Space between image and text */
     }
   }
 </style>
