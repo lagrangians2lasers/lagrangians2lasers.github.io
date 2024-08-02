@@ -1310,8 +1310,3 @@ button.next {
 .event-details .location {
   flex: 1;
 }
-@media (max-width: 600px) {
-  .event-details {
-    flex-direction: column;
-  }
-}

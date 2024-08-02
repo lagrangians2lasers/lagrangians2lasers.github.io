@@ -62,15 +62,19 @@ layout: page
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        <h6 class="event-details">
-          <span class="date-time">
-            <i class="fas fa-calendar-alt"></i> {{ post.date | date: date_format }}
-            <span class="separator">|</span>
-            <i class="fas fa-clock"></i> {{ post.Time }}
-            <span class="separator">|</span>
-            <i class="fas fa-map-marker-alt"> </i> {{ post.Location }}
-            </span>
-        </h6>
+        {% if @media (max-width: 600px) %}
+          <i class="fas fa-map-marker-alt"> </i> {{ post.Location }}
+          {% else %}
+          <h6 class="event-details">
+            <span class="date-time">
+              <i class="fas fa-calendar-alt"></i> {{ post.date | date: date_format }}
+              <span class="separator">|</span>
+              <i class="fas fa-clock"></i> {{ post.Time }}
+              <span class="separator">|</span>
+              <i class="fas fa-map-marker-alt"> </i> {{ post.Location }}
+              </span>
+          </h6>
+        {% endif %}
       </p>
 
       {% if thumbnail != "" %}
