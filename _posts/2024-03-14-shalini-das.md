@@ -15,7 +15,7 @@ mathjax: true
 author: Shalini Das
 email: shalini.das (AT) students.iiserpune.ac.in
 position: "4th year BS-MS"
-wantimage: false
+wantimage: true
 pdf: "assets/pdfs/Jan24/Shalini.pdf"
 # images:
 #   - path: "assets/img/Aug23/Dhairya.png"

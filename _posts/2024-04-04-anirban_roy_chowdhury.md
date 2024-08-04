@@ -15,7 +15,7 @@ mathjax: true
 author: Anirban Roy Chowdhury
 email: anirban.roychoudhury_AT_students.iiserpune.ac.in
 position: "5th year BS-MS"
-wantimage: false
+wantimage: true
 pdf: "assets/pdfs/Jan24/Anirban.pdf"
 # images:
 #   - path: "assets/img/Aug23/Dhairya.png"

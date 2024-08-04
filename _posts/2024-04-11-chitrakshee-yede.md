@@ -15,7 +15,7 @@ mathjax: true
 author: Chitrakshee Yede
 email: chitraksheeyede542_AT_gmail.com
 position: "HSF India Trainee"
-wantimage: false
+wantimage: true
 pdf: "assets/pdfs/Jan24/Chitrakshee.pdf"
 # images:
 #   - path: "assets/img/Aug23/Dhairya.png"

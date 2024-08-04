@@ -15,7 +15,7 @@ mathjax: true
 author: Shreyas Bakare
 email: shreyas.bakare (AT) students.iiserpune.ac.in
 position: "4th year BS-MS"
-wantimage: false
+wantimage: true
 pdf: "assets/pdfs/Jan24/shreyas.pdf"
 images:
   - path: "assets/img/Jan24/shreyas.jpeg"
