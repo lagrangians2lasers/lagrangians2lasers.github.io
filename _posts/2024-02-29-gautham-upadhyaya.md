@@ -16,7 +16,7 @@ author: Gautham Upadhyaya
 email: mahalinga.upadhyaya (AT) students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: false
-# pdf: "assets/pdfs/Aug23/Dhairya.pdf"
+pdf: "assets/pdfs/Jan24/Gautham.pdf"
 # images:
 #   - path: "assets/img/Aug23/Dhairya.png"
 #   - path: "assets/img/Aug23/Dhairya3.JPG"

@@ -16,7 +16,7 @@ author: Dhairya Bhandari
 email: dhairya.bhandari (AT) students.iiserpune.ac.in
 position: "3rd year BS-MS"
 wantimage: false
-# pdf: "assets/pdfs/Aug23/Dhairya.pdf"
+# pdf: "assets/pdfs/Jan24/Dhairya.pdf"
 # images:
 #   - path: "assets/img/Aug23/Dhairya.png"
 #   - path: "assets/img/Aug23/Dhairya3.JPG"

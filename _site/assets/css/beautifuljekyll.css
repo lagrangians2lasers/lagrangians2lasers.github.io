@@ -1319,6 +1319,11 @@ button.next {
   font-style: normal;
 }
 
+.event-details-small-screen i{
+  font-weight: normal;
+  font-style: normal;
+}
+
 @media (max-width: 600px) {
   .event-details-large-screen {
     display: none;

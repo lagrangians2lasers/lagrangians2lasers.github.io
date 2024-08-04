@@ -16,7 +16,7 @@ author: Abhilash Sengupta
 email: abhilash.sengupta@mpikg.mpg.de
 position: "MS student, University of Potsdam"
 wantimage: false
-# pdf: "assets/pdfs/Aug23/Dhairya.pdf"
+pdf: "assets/pdfs/Jan24/Abhilash.pdf"
 # images:
 #   - path: "assets/img/Aug23/Dhairya.png"
 #   - path: "assets/img/Aug23/Dhairya3.JPG"

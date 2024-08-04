@@ -17,12 +17,12 @@ email: shreyas.bakare (AT) students.iiserpune.ac.in
 position: "4th year BS-MS"
 wantimage: false
 pdf: "assets/pdfs/Jan24/shreyas.pdf"
-# images:
-#   - path: "assets/img/Aug23/Dhairya.png"
-#   - path: "assets/img/Aug23/Dhairya3.JPG"
-#   - path: "assets/img/Aug23/Dhairya1.JPG"
-#   - path: "assets/img/Aug23/Dhairya2.JPG"
-#   - path: "assets/img/Aug23/Dhairya4.JPG"
+images:
+  - path: "assets/img/Jan24/shreyas.jpeg"
+  - path: "assets/img/Jan24/shreyas1.jpeg"
+  - path: "assets/img/Jan24/shreyas2.jpeg"
+  - path: "assets/img/Jan24/shreyas3.jpeg"
+  - path: "assets/img/Jan24/shreyas4.jpeg"
 ---
 {: .box-note}
 Despite the success of the Standard Model in describing the interactions of elementary particles, observations that suggest the existence of additional phenomena remain. Many theories of physics beyond the Standard Model have been proposed that feature "final states" in high-energy proton-proton collisions with exactly four leptons.
