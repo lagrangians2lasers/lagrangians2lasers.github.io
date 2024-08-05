@@ -13,13 +13,13 @@ tags: [PARTICLE_PHY, EHEP, EXPERIMENT]
 comments: true
 mathjax: true
 author: Shreyas Bakare
-email: shreyas.bakare (AT) students.iiserpune.ac.in
+email: shreyas.bakare_AT_students.iiserpune.ac.in
 position: "4th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Jan24/Shreyas.pdf"
 images:
-  - path: "assets/img/Jan24/shreyas.jpeg"
   - path: "assets/img/Jan24/shreyas1.jpeg"
+  - path: "assets/img/Jan24/shreyas.jpeg"
   - path: "assets/img/Jan24/shreyas2.jpeg"
   - path: "assets/img/Jan24/shreyas3.jpeg"
   - path: "assets/img/Jan24/shreyas4.jpeg"

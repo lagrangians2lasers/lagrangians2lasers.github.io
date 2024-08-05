@@ -13,7 +13,7 @@ tags: [STAT_PHY, THEORY]
 comments: true
 mathjax: true
 author: Soham Mukund Chandak
-email: soham.chandak (AT) students.iiserpune.ac.in
+email: soham.chandak_AT_students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Jan24/Soham.pdf"

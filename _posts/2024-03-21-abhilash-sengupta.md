@@ -13,7 +13,7 @@ tags: [PARTICLE_PHY, THEORY]
 comments: true
 mathjax: true
 author: Abhilash Sengupta
-email: abhilash.sengupta@mpikg.mpg.de
+email: abhilash.sengupta_AT_mpikg.mpg.de
 position: "MS student, University of Potsdam"
 wantimage: true
 pdf: "assets/pdfs/Jan24/Abhilash.pdf"

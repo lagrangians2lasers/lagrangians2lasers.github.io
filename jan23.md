@@ -5,7 +5,7 @@ subtitle: January 2023 Semester
 wantimage: true
 images:
   - path: "assets/img/Jan23/all.png"
-    caption: "by the end of January 2023 semester"
+    caption: "L2L by the end of January 2023 semester"
   - path: "assets/img/Jan23/Soumil.png"
     caption: "Soumil Kelkar's Talk - Jan '23"
   - path: "assets/img/Jan23/Amogh.png"
