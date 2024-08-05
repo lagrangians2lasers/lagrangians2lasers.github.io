@@ -1,28 +1,27 @@
 ---
 layout: page
-title: "Jan '23"
-subtitle: January 2023 Semester
-wantimage: False
-# image_directory: "assets/img/Aug24/"
-# images:
-#   - path: "assets/img/Aug23/all1.jpg"
-#     caption: "L2L in Aug '23"
-#   - path: "assets/img/Aug23/Dhairya.png"
-#     caption: "Dhairya Bhandari's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Drishti.jpg"
-#     caption: "Drishti Gupta's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Dhruv.jpg"
-#     caption: "Dhruv Patel's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Soumya.jpg"
-#     caption: "Soumya Sarkar's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Harrsh.jpg"
-#     caption: "Harrsh Goyal's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Shivang.jpg"
-#     caption: "Shivang Yadav's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Soorya.jpg"
-#     caption: "Soorya Narayan's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Kartik.jpg"
-#     caption: "Kartik Singh's Talk - Aug '23"
+title: "Jan '24"
+subtitle: January 2024 Semester
+wantimage: true
+image_directory: "assets/img/Jan24/"
+images:
+  - path: "assets/img/Jan24/Shreyas.jpeg"
+    caption: "Shreyas Bakare's Talk - Jan '24"
+  - path: "assets/img/Jan24/Shreyas.jpeg"
+    caption: "Shreyas Bakare's Talk - Jan '24"
+  - path: "assets/img/Jan24/Shreyas.jpeg"
+    caption: "Shreyas Bakare's Talk - Jan '24"
+  - path: "assets/img/Jan24/Shreyas.jpeg"
+    caption: "Shreyas Bakare's Talk - Jan '24"
+  - path: "assets/img/Jan24/Shreyas.jpeg"
+    caption: "Shreyas Bakare's Talk - Jan '24"
+  - path: "assets/img/Jan24/Shreyas.jpeg"
+    caption: "Shreyas Bakare's Talk - Jan '24"
+  - path: "assets/img/Jan24/Shreyas.jpeg"
+    caption: "Shreyas Bakare's Talk - Jan '24"
+  - path: "assets/img/Jan24/Shreyas.jpeg"
+    caption: "Shreyas Bakare's Talk - Jan '24"  
+  
 ---
 
 <div class="post-list">
