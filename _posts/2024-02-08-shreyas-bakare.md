@@ -7,7 +7,7 @@ Time: 18:30  → 19:30
 # gh-repo:
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
-# thumbnail-img: /assets/img/L-2.png
+thumbnail-img: /assets/img/Jan24/Shreyas-thumb.png
 # share-img: /assets/img/.jpg
 tags: [PARTICLE_PHY, EHEP, EXPERIMENT]
 comments: true

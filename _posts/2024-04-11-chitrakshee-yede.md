@@ -7,7 +7,7 @@ Time: 18:00  → 19:00
 # gh-repo:
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
-# thumbnail-img: /assets/img/L-2.png
+thumbnail-img: /assets/img/Jan24/Chitrakshee-thumb.png
 # share-img: /assets/img/.jpg
 tags: [ML, PARTICLE_PHY, HEP, SIMULATION, EXPERIMENT]
 comments: true

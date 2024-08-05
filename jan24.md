@@ -7,7 +7,7 @@ image_directory: "assets/img/Jan24/"
 images:
   - path: "assets/img/Jan24/Shreyas.jpeg"
     caption: "Shreyas Bakare's Talk - Jan '24"
-  - path: "assets/img/Jan24/Shreyas.jpeg"
+  - path: "assets/img/Jan24/Shreyas1.jpeg"
     caption: "Shreyas Bakare's Talk - Jan '24"
   - path: "assets/img/Jan24/Shreyas.jpeg"
     caption: "Shreyas Bakare's Talk - Jan '24"
