@@ -8,7 +8,7 @@ Time: 16:00  → 17:00
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Dhairya-thumb.png"
-# share-img: /assets/img/.jpg
+share-img: /assets/img/banner.png
 tags: [CON_MAT, MATERIAL, EXPERIMENT]
 comments: true
 mathjax: true

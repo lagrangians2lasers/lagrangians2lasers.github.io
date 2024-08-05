@@ -8,7 +8,7 @@ Time: 18:30  → 19:30
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
 thumbnail-img: /assets/img/Jan24/Soham-thumb.png
-# share-img: /assets/img/.jpg
+share-img: /assets/img/banner.png
 tags: [STAT_PHY, THEORY]
 comments: true
 mathjax: true
@@ -17,12 +17,11 @@ email: soham.chandak_AT_students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: true
 pdf: "assets/pdfs/Jan24/Soham.pdf"
-# images:
-#   - path: "assets/img/Aug23/Dhairya.png"
-#   - path: "assets/img/Aug23/Dhairya3.JPG"
-#   - path: "assets/img/Aug23/Dhairya1.JPG"
-#   - path: "assets/img/Aug23/Dhairya2.JPG"
-#   - path: "assets/img/Aug23/Dhairya4.JPG"
+images:
+  - path: "assets/img/Jan24/Soham.jpeg"
+  - path: "assets/img/Jan24/Soham1.jpeg"
+  - path: "assets/img/Jan24/Soham2.jpeg"
+  - path: "assets/img/Jan24/Soham3.jpeg"
 ---
 {: .box-note}
 In Physics, one of the major goals is to construct good theoretical models that explain the observations in the physical world. Can the spectra of matrices with random entries serve as useful models for some physical systems? Turns out the answer is yes! The spectrum of random matrices serves as useful models for atomic nuclei, classically chaotic quantum systems, and even the zeros of the Riemann Zeta function, among several other applications.

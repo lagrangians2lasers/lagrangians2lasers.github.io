@@ -8,7 +8,7 @@ Time: 18:30  → 20:00
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Jan23/Kaustubh-thumb.png"
-# share-img: /assets/img/.jpg
+share-img: /assets/img/banner.png
 tags: [COSMO, GRAVITY, EXPERIMENT]
 comments: true
 mathjax: true

@@ -5,19 +5,19 @@
     <title>Lagrangians to Lasers</title>
     
     
-    <link>http://localhost:4001/</link>
-    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Summer Sprints : Volume 1</title>
         <description>
           Early BS-MS summer projects - 
-          Note: This session features brief, insightful talks of 15 mins each from early-stage BS-MS students, showcasing their summer projects. It’s an opportunity to gain entry level understanding of various sub-fields of physics from your peer. 1. Ira Mishra Brief abstract...
+          Note: This session features brief, insightful talks of 15 mins each from early-stage BS-MS students, showcasing their summer projects. It’s an opportunity to gain entry level understanding of various sub-fields of physics from your peer. 1. Pulsed Laser Deposition and...
         </description>
         <pubDate>Thu, 08 Aug 2024 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2024-08-08-summer1/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-08-08-summer1/</guid>
+        <link>http://localhost:4000/2024-08-08-summer1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-08-08-summer1/</guid>
       </item>
     
       <item>
@@ -27,8 +27,8 @@
           Over the last decade, machine learning techniques have been widely adopted by various domains in particle physics. I will discuss using such ML algorithms and simulations in particle physics analysis and the challenges they present. Then, I will introduce a...
         </description>
         <pubDate>Thu, 11 Apr 2024 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2024-04-11-chitrakshee-yede/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-04-11-chitrakshee-yede/</guid>
+        <link>http://localhost:4000/2024-04-11-chitrakshee-yede/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-04-11-chitrakshee-yede/</guid>
       </item>
     
       <item>
@@ -38,8 +38,8 @@
           Supermassive Black Holes are (like the name implies) extremely massive black holes, weighing up to billions of times the mass of the Sun, present in the centers of galaxies. By their nature, they are also invisible and thus very difficult...
         </description>
         <pubDate>Thu, 04 Apr 2024 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2024-04-04-anirban_roy_chowdhury/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-04-04-anirban_roy_chowdhury/</guid>
+        <link>http://localhost:4000/2024-04-04-anirban_roy_chowdhury/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-04-04-anirban_roy_chowdhury/</guid>
       </item>
     
       <item>
@@ -50,8 +50,8 @@
 
         </description>
         <pubDate>Thu, 21 Mar 2024 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2024-03-21-abhilash-sengupta/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-03-21-abhilash-sengupta/</guid>
+        <link>http://localhost:4000/2024-03-21-abhilash-sengupta/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-03-21-abhilash-sengupta/</guid>
       </item>
     
       <item>
@@ -61,8 +61,8 @@
           The Langmuir probe is the most fundamental diagnostics technique for extracting plasma parameters such as electron temperature, plasma density, and plasma potential. I will explain how I analyzed the Langmuir probe data of RF-produced plasma. I will also discuss an...
         </description>
         <pubDate>Thu, 14 Mar 2024 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2024-03-14-shalini-das/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-03-14-shalini-das/</guid>
+        <link>http://localhost:4000/2024-03-14-shalini-das/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-03-14-shalini-das/</guid>
       </item>
     
       <item>
@@ -72,8 +72,8 @@
           I will give a motivation for why thin films are interesting and worth studying and growing. I will then talk about the various ways in which we can grow thin films and the merits and demerits of each technique. I...
         </description>
         <pubDate>Thu, 07 Mar 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4001/2024-03-07-dhairya-bhandari/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-03-07-dhairya-bhandari/</guid>
+        <link>http://localhost:4000/2024-03-07-dhairya-bhandari/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-03-07-dhairya-bhandari/</guid>
       </item>
     
       <item>
@@ -83,8 +83,8 @@
           Throughout history, precise measurement has been crucial in gaining a deeper understanding of the nature of things and even rewriting the laws of physics. The science of measuring with extreme precision is fascinating in itself, but what’s equally intriguing is...
         </description>
         <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4001/2024-02-29-gautham-upadhyaya/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-02-29-gautham-upadhyaya/</guid>
+        <link>http://localhost:4000/2024-02-29-gautham-upadhyaya/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-29-gautham-upadhyaya/</guid>
       </item>
     
       <item>
@@ -94,8 +94,8 @@
           In Physics, one of the major goals is to construct good theoretical models that explain the observations in the physical world. Can the spectra of matrices with random entries serve as useful models for some physical systems? Turns out the...
         </description>
         <pubDate>Thu, 15 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4001/2024-02-15-soham-chandak/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-02-15-soham-chandak/</guid>
+        <link>http://localhost:4000/2024-02-15-soham-chandak/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-15-soham-chandak/</guid>
       </item>
     
       <item>
@@ -105,8 +105,8 @@
           Despite the success of the Standard Model in describing the interactions of elementary particles, observations that suggest the existence of additional phenomena remain. Many theories of physics beyond the Standard Model have been proposed that feature “final states” in high-energy...
         </description>
         <pubDate>Thu, 08 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4001/2024-02-08-shreyas-bakare/</link>
-        <guid isPermaLink="true">http://localhost:4001/2024-02-08-shreyas-bakare/</guid>
+        <link>http://localhost:4000/2024-02-08-shreyas-bakare/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-08-shreyas-bakare/</guid>
       </item>
     
       <item>
@@ -116,8 +116,8 @@
           Because of the sheer distance at which Quasars are found, the methods employed to measure the mass of their central black hole are very indirect. One such method is reverberation mapping, which achieves this by analyzing the spectrum of these...
         </description>
         <pubDate>Mon, 13 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4001/2023-11-13-kartik-singh/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-11-13-kartik-singh/</guid>
+        <link>http://localhost:4000/2023-11-13-kartik-singh/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-11-13-kartik-singh/</guid>
       </item>
     
       <item>
@@ -127,8 +127,8 @@
           This will be an introductory level talk about the various dark matter models physicists use to explain astrophysical observations. The change in the microphysics of dark matter particles can lead to very different cosmological observations. The talk will mostly be...
         </description>
         <pubDate>Mon, 06 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4001/2023-11-06-soorya-narayan/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-11-06-soorya-narayan/</guid>
+        <link>http://localhost:4000/2023-11-06-soorya-narayan/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-11-06-soorya-narayan/</guid>
       </item>
     
       <item>
@@ -138,8 +138,8 @@
           I will explain what is CFT, what is supersymmetry?. Why do we want to use supersymmetry in CFT? Is there actually any supersymmetry in this universe? Even if it’s not, how can this help in our understanding of CFT or...
         </description>
         <pubDate>Mon, 23 Oct 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2023-10-23-shivang-yadav/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-10-23-shivang-yadav/</guid>
+        <link>http://localhost:4000/2023-10-23-shivang-yadav/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-10-23-shivang-yadav/</guid>
       </item>
     
       <item>
@@ -149,8 +149,8 @@
           CP violation was first discovered in Kaons which shattered the ‘mirror’ of physics once again, and since then Kaons have become synonymous with the concept of CP violation. To measure the same, a new experiment has been proposed at CERN...
         </description>
         <pubDate>Mon, 09 Oct 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2023-10-09-harrsh-goyal/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-10-09-harrsh-goyal/</guid>
+        <link>http://localhost:4000/2023-10-09-harrsh-goyal/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-10-09-harrsh-goyal/</guid>
       </item>
     
       <item>
@@ -160,8 +160,8 @@
           Compact Muon Solenoid (CMS) is one of the four detectors at the Large Hadron Collider(LHC) at CERN, where protons are collided at record COM energies of 13.6 TeV. At CMS, we try to find answers to some of the questions...
         </description>
         <pubDate>Mon, 11 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2023-09-11-soumya-sarkar/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-09-11-soumya-sarkar/</guid>
+        <link>http://localhost:4000/2023-09-11-soumya-sarkar/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-09-11-soumya-sarkar/</guid>
       </item>
     
       <item>
@@ -171,8 +171,8 @@
           I will be talking on a very old and still existing problem of protein folding in Statistical Mechanics. My project consisted of using Statistical Mechanics and Graph theory to come up with a theoretical hypothesis which takes into account multi-body...
         </description>
         <pubDate>Mon, 04 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2023-09-04-dhruv-patel/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-09-04-dhruv-patel/</guid>
+        <link>http://localhost:4000/2023-09-04-dhruv-patel/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-09-04-dhruv-patel/</guid>
       </item>
     
       <item>
@@ -182,8 +182,8 @@
           The Euler-Heisenberg Lagrangian (EHL) refers to non-linear corrections to Maxwell’s equations due to the interaction of electromagnetic fields with vacuum fluctuations of a charged field. One of the most exciting predictions of this formalism is the spontaneous production of particle...
         </description>
         <pubDate>Mon, 28 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2023-08-28-drishti-gupta/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-08-28-drishti-gupta/</guid>
+        <link>http://localhost:4000/2023-08-28-drishti-gupta/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-08-28-drishti-gupta/</guid>
       </item>
     
       <item>
@@ -193,8 +193,8 @@
           Graphene is the poster child of 2D materials, and has diverse properties that suit it for a wide range of applications. Here, I will discuss how we can transfer graphene from one substrate to another, in order to harness these...
         </description>
         <pubDate>Mon, 21 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2023-08-21-dhairya-bhandari/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-08-21-dhairya-bhandari/</guid>
+        <link>http://localhost:4000/2023-08-21-dhairya-bhandari/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-08-21-dhairya-bhandari/</guid>
       </item>
     
       <item>
@@ -204,8 +204,8 @@
           When we deal with light in physics, we generally assume it to be a monochromatic wave. However, having a monochromatic wave is impossible; we often have quasi-monochromatic sources. This leads to partial coherence in light fields. Quantifying this coherence property...
         </description>
         <pubDate>Fri, 14 Apr 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2023-04-14-vedhanth/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-04-14-vedhanth/</guid>
+        <link>http://localhost:4000/2023-04-14-vedhanth/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-04-14-vedhanth/</guid>
       </item>
     
       <item>
@@ -215,8 +215,8 @@
           Atomic Force Microscopy is a microscopy technique which uses a physical probe to scan the surface. It can have a high spatial resolution up to fractions of a nm. AFM can also be used to give 3D topography of a...
         </description>
         <pubDate>Fri, 24 Mar 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4001/2023-03-24-vishal/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-03-24-vishal/</guid>
+        <link>http://localhost:4000/2023-03-24-vishal/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-03-24-vishal/</guid>
       </item>
     
       <item>
@@ -226,8 +226,8 @@
           Quantum Computing has a lot of possible advantageous uses over classical computing but presently the field is in its infancy. The biggest challenge for it is to get rid of noise or become robust against errors. Dealing with noise in...
         </description>
         <pubDate>Fri, 10 Mar 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4001/2023-03-10-pranav-maheshwari/</link>
-        <guid isPermaLink="true">http://localhost:4001/2023-03-10-pranav-maheshwari/</guid>
+        <link>http://localhost:4000/2023-03-10-pranav-maheshwari/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-03-10-pranav-maheshwari/</guid>
       </item>
     
   </channel>

@@ -8,7 +8,7 @@ Time: 15:30  → 17:00
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Jan23/Amogh-thumb.png"
-# share-img: /assets/img/.jpg
+share-img: /assets/img/banner.png
 tags: [STAT_PHY, CON_MAT, THEORY]
 comments: true
 mathjax: true

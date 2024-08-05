@@ -8,7 +8,7 @@ Time: 18:00  → 19:00
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Dhruv-thumb.png"
-# share-img: /assets/img/.jpg
+share-img: /assets/img/banner.png
 tags: [BIO_PHY, STAT_MECH, PROTEIN, THEORY]
 comments: true
 mathjax: true
