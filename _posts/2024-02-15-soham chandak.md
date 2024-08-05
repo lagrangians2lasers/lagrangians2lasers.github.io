@@ -8,7 +8,7 @@ Time: 18:30  → 19:30
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
 thumbnail-img: /assets/img/Jan24/Soham-thumb.png
-share-img: /assets/img/banner.png
+share-img: /assets/img/mybanner.png
 tags: [STAT_PHY, THEORY]
 comments: true
 mathjax: true

@@ -8,7 +8,7 @@ Time: 18:00  → 19:00
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
 thumbnail-img: "assets/img/Aug23/Drishti-thumb.png"
-share-img: /assets/img/banner.png
+share-img: /assets/img/mybanner.png
 tags: [PARTICLE_PHY, QFT, THEORY]
 comments: true
 mathjax: true

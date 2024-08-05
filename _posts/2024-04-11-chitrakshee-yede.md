@@ -8,7 +8,7 @@ Time: 18:00  → 19:00
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
 thumbnail-img: /assets/img/Jan24/Chitrakshee-thumb.png
-share-img: /assets/img/banner.png
+share-img: /assets/img/mybanner.png
 tags: [ML, PARTICLE_PHY, HEP, SIMULATION, EXPERIMENT]
 comments: true
 mathjax: true
