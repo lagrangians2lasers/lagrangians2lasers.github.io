@@ -3,7 +3,7 @@ layout: post
 title: Distinguishability of physical states in quantum mechanics
 subtitle: Quantum Physics
 Location: LHC 106
-Time: 19:00  → 20:00
+Time: 17:30  → 18:25
 # gh-repo:
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg

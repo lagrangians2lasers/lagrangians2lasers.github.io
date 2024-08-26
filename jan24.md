@@ -5,8 +5,8 @@ subtitle: January 2024 Semester
 wantimage: true
 image_directory: "assets/img/Jan24/"
 images:
-  - path: "assets/img/Jan24/classroom.jpeg"
-    caption: "From blank slates to bustling spaces!"
+  # - path: "assets/img/Jan24/classroom.jpeg"
+  #   caption: "From blank slates to bustling spaces!"
   - path: "assets/img/Jan24/all3.jpeg"
     caption: "L2L by the end of January 2024 semester"
   - path: "assets/img/Jan24/Shreyas1.jpeg"

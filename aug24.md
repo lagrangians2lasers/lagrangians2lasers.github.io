@@ -2,27 +2,23 @@
 layout: page
 title: "Aug '24"
 subtitle: August 2024 Semester
-wantimage: false
+wantimage: true
 # image_directory: "assets/img/Aug24/"
-# images:
-#   - path: "assets/img/Aug23/all1.jpg"
-#     caption: "L2L in Aug '23"
-#   - path: "assets/img/Aug23/Dhairya.png"
-#     caption: "Dhairya Bhandari's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Drishti.jpg"
-#     caption: "Drishti Gupta's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Dhruv.jpg"
-#     caption: "Dhruv Patel's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Soumya.jpg"
-#     caption: "Soumya Sarkar's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Harrsh.jpg"
-#     caption: "Harrsh Goyal's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Shivang.jpg"
-#     caption: "Shivang Yadav's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Soorya.jpg"
-#     caption: "Soorya Narayan's Talk - Aug '23"
-#   - path: "assets/img/Aug23/Kartik.jpg"
-#     caption: "Kartik Singh's Talk - Aug '23"
+images:
+  - path: "assets/img/Aug24/Aug24.HEIC"
+    caption: "L2L in August 2024"
+  - path: "assets/img/Aug24/2Aug24.HEIC"
+    caption: "From blank slates to bustling spaces!"
+  - path: "assets/img/Aug24/Ira1.HEIC"
+    caption: "Ira Mishra's Talk in Summer Sprints 1 - Aug '24"
+  - path: "assets/img/Aug24/Angad1.HEIC"
+    caption: "Angad Singh's Talk in Summer Sprints 1 - Aug '24"
+  - path: "assets/img/Aug24/Harini1.HEIC"
+    caption: "Harini Karthikeyan's Talk in Summer Sprints 1 - Aug '24"
+  - path: "assets/img/Aug24/Piyush1.HEIC"
+    caption: "Piyush Kolhe's Talk in Summer Sprints 1 - Aug '24"
+  - path: "assets/img/Aug24/Niveditha1.HEIC"
+    caption: "Niveditha Warrier's Talk in Summer Sprints 1 - Aug '24"
 ---
 
 <div class="post-list">
