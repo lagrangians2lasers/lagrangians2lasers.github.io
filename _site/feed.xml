@@ -10,6 +10,17 @@
     
     
       <item>
+        <title>Distinguishability of physical states in quantum mechanics</title>
+        <description>
+          Quantum Physics - 
+          “Two physically different states of a classical system are in principle distinguishable. But that is not always true for quantum mechanical systems. I will discuss why is it not possible to distinguish states of a quantum system which are non-orthogonal,...
+        </description>
+        <pubDate>Thu, 29 Aug 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024-08-29-aashish-jaiswal/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-08-29-aashish-jaiswal/</guid>
+      </item>
+    
+      <item>
         <title>Summer Sprints : Volume 1</title>
         <description>
           Early BS-MS summer projects - 
@@ -217,17 +228,6 @@
         <pubDate>Fri, 24 Mar 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023-03-24-vishal/</link>
         <guid isPermaLink="true">http://localhost:4000/2023-03-24-vishal/</guid>
-      </item>
-    
-      <item>
-        <title>Quantum Error Correction Codes - Stabilizer Formalism</title>
-        <description>
-          Quantum Information - 
-          Quantum Computing has a lot of possible advantageous uses over classical computing but presently the field is in its infancy. The biggest challenge for it is to get rid of noise or become robust against errors. Dealing with noise in...
-        </description>
-        <pubDate>Fri, 10 Mar 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023-03-10-pranav-maheshwari/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023-03-10-pranav-maheshwari/</guid>
       </item>
     
   </channel>
