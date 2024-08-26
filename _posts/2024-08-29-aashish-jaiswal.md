@@ -16,6 +16,7 @@ author: Aashish Jaiswal
 email: jaiswalaashish337@gmail.com
 position: "3rd year BS-MS"
 wantimage: false
+wantpdf: false
 # pdf: "assets/pdfs/Jan24/Chitrakshee.pdf"
 # images:
 #   - path: "assets/img/Jan24/Chitrakshee.jpeg"

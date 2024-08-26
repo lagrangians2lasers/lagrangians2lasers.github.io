@@ -16,6 +16,7 @@ author: Shalini Das
 email: shalini.das_AT_students.iiserpune.ac.in
 position: "4th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Jan24/Shalini.pdf"
 images:
   - path: "assets/img/Jan24/Shalini.jpeg"

@@ -16,6 +16,7 @@ author: Shreyas Bakare
 email: shreyas.bakare_AT_students.iiserpune.ac.in
 position: "4th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Jan24/Shreyas.pdf"
 images:
   - path: "assets/img/Jan24/shreyas1.jpeg"

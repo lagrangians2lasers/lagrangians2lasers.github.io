@@ -16,6 +16,7 @@ author: Gautham Upadhyaya
 email: mahalinga.upadhyaya_AT_students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Jan24/Gautham.pdf"
 images:
   - path: "assets/img/Jan24/Gautham.jpeg"

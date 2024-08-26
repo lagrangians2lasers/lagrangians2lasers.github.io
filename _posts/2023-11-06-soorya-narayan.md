@@ -16,6 +16,7 @@ author: Soorya Narayan
 email: soorya.narayan_AT_students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Aug23/Soorya.pdf"
 images:
   - path: "assets/img/Aug23/Soorya.jpg"

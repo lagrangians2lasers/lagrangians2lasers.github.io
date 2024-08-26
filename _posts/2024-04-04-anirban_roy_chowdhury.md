@@ -16,6 +16,7 @@ author: Anirban Roy Chowdhury
 email: anirban.roychoudhury_AT_students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Jan24/Anirban.pdf"
 images:
     - path: "assets/img/Jan24/Anirban.jpeg"

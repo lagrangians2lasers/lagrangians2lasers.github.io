@@ -16,6 +16,7 @@ author: Amogh Rakesh
 email: amogh.rakesh_AT_students.iiserpune.ac.in
 position: "4th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Jan23/Amogh.pdf"
 images:
   - path: "assets/img/Jan23/Amogh.png"

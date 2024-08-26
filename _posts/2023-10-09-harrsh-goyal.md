@@ -16,6 +16,7 @@ author: Harrsh Goyal
 email: harrsh.goyal_AT_students.iiserpune.ac.in 
 position: "4th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Aug23/Harrsh.pdf"
 images:
   - path: "assets/img/Aug23/Harrsh.jpg"

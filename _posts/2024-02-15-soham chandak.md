@@ -16,6 +16,7 @@ author: Soham Mukund Chandak
 email: soham.chandak_AT_students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Jan24/Soham.pdf"
 images:
   - path: "assets/img/Jan24/Soham.jpeg"

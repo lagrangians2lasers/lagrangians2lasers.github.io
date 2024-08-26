@@ -16,6 +16,7 @@ author: Shivang Yadav
 email: shivang.yadav_AT_students.iiserpune.ac.in 
 position: "5th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Aug23/Shivang.pdf"
 images:
   - path: "assets/img/Aug23/Shivang.jpg"

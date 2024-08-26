@@ -16,6 +16,7 @@ author: Chitrakshee Yede
 email: chitraksheeyede542_AT_gmail.com
 position: "HSF India Trainee"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Jan24/Chitrakshee.pdf"
 images:
   - path: "assets/img/Jan24/Chitrakshee.jpeg"

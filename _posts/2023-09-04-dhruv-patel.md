@@ -16,6 +16,7 @@ author: Dhruv Patel
 email: patel.dhruv_AT_students.iiserpune.ac.in
 position: "4th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Aug23/Dhruv.pdf"
 images:
   - path: "assets/img/Aug23/Dhruv.jpg"

@@ -16,6 +16,7 @@ author: Abhilash Sengupta
 email: abhilash.sengupta_AT_mpikg.mpg.de
 position: "MS student, University of Potsdam"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Jan24/Abhilash.pdf"
 images:
   - path: "assets/img/Jan24/Abhilash.jpeg"

@@ -16,6 +16,7 @@ author: Drishti Gupta
 email: drishti.gupta_AT_students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Aug23/Drishti.pdf"
 images:
   - path: assets/img/Aug23/Drishti.jpg
