@@ -4,9 +4,9 @@
       <div>{{ site.author }}</div>
     {% endif %}
     {% if page.date %}
-      <div>{{ page.date }}</div>
+    <div><c>{{ page.date }}</c></div>
     {% else %}
-      <div>{{ site.time | date: '%Y' }}</div>
+      <div><c>{{ site.time | date: '%Y' }}</c></div>
     {% endif %}
 
     {% if site.url-pretty %}

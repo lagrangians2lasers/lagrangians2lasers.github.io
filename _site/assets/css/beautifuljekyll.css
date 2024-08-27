@@ -66,6 +66,21 @@ h4 {
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+
+c {
+  color: var(--text-col);
+  font-size: 12px
+}
+
+my {
+  color: var(--link-col);
+  font-size: 12px
+}
+my:hover,
+my:focus {
+  color: var(--hover-col);
+}
+
 a {
   color: var(--link-col);
 }

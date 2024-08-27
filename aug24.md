@@ -6,9 +6,9 @@ wantimage: true
 # image_directory: "assets/img/Aug24/"
 images:
   - path: "assets/img/Aug24/Aug24.HEIC"
-    caption: "L2L in August 2024"
+    caption: "First 50 attendees: A milestone for L2L in August 2024"
   - path: "assets/img/Aug24/2Aug24.HEIC"
-    caption: "From blank slates to bustling spaces!"
+    caption: "From blank slates to bustling spaces! - Aug '24"
   - path: "assets/img/Aug24/Ira1.HEIC"
     caption: "Ira Mishra's Talk in Summer Sprints 1 - Aug '24"
   - path: "assets/img/Aug24/Angad1.HEIC"
