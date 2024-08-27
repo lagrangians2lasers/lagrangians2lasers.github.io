@@ -2,7 +2,7 @@
 layout: post
 title: Distinguishability of physical states in quantum mechanics
 subtitle: Quantum Physics
-Location: LHC 106
+Location: To be decided!
 Time: 17:30  → 18:25
 # gh-repo:
 # gh-badge: [star, fork, follow]
