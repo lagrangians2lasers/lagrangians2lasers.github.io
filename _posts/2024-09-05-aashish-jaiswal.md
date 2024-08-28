@@ -2,8 +2,8 @@
 layout: post
 title: Distinguishability of physical states in quantum mechanics
 subtitle: Quantum Physics
-Location: To be decided!
-Time: To be decided!
+Location: "To be decided!"
+Time: "To be decided!"
 # gh-repo:
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
