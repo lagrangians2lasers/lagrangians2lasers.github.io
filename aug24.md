@@ -33,7 +33,7 @@ images:
     {% if post_date >= start_date and post_date <= end_date %}
       <div class="post-box">
         {% if post.date > site.time %}
-          <h3 class="blinking-text" style="color: rgb(106, 20, 7);">[Postponed!]</h3>
+          <h3 class="blinking-text" style="color: rgb(106, 20, 7);">[upcoming!]</h3>
         {% endif %}
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
