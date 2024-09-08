@@ -15,8 +15,8 @@ mathjax: true
 author: Aashish Jaiswal 
 email: jaiswalaashish337@gmail.com
 position: "3rd year BS-MS"
-wantimage: false
-wantpdf: false
+wantimage: true
+wantpdf: true
 pdf: "assets/pdfs/Aug24/Aashish.pdf"
 images:
   - path: "assets/img/Aug24/Aashish1.jpeg"
