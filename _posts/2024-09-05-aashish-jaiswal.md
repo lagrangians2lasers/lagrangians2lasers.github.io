@@ -17,13 +17,11 @@ email: jaiswalaashish337@gmail.com
 position: "3rd year BS-MS"
 wantimage: false
 wantpdf: false
-# pdf: "assets/pdfs/Jan24/Chitrakshee.pdf"
-# images:
-#   - path: "assets/img/Jan24/Chitrakshee.jpeg"
-#   - path: "assets/img/Jan24/Chitrakshee1.jpeg"
-#   - path: "assets/img/Jan24/Chitrakshee2.jpeg"
-#   - path: "assets/img/Jan24/Chitrakshee3.jpeg"
-#   - path: "assets/img/Jan24/Chitrakshee4.jpeg"
+pdf: "assets/pdfs/Aug24/Aashish.pdf"
+images:
+  - path: "assets/img/Aug24/Aashish1.jpeg"
+  - path: "assets/img/Aug24/Aashish2.jpeg"
+  - path: "assets/img/Aug24/Aashish3.jpeg"
 ---
 {: .box-note}
 "Two physically different states of a classical system are in principle distinguishable. But that is not always true for quantum mechanical systems.
