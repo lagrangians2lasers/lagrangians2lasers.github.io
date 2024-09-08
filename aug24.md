@@ -9,6 +9,8 @@ images:
     caption: "First 50 attendees: A milestone for L2L in August 2024"
   - path: "assets/img/Aug24/2Aug24.png"
     caption: "From blank slates to bustling spaces! - Aug '24"
+  - path: "assets/img/Aug24/Aashish1.jpeg"
+    caption: "Aashish Jaiswal's Talk - Aug '24"
   - path: "assets/img/Aug24/Ira1.png"
     caption: "Ira Mishra's Talk in Summer Sprints 1 - Aug '24"
   - path: "assets/img/Aug24/Angad1.png"
