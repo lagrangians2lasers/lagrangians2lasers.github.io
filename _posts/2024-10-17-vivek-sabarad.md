@@ -3,7 +3,7 @@ layout: post
 title: "Machine Learning with Nuclear spins: Learning Quantum Entanglement"
 subtitle: Quantum Information
 Location: LHC 106
-Time: 18:30  → 19:30
+Time: 18:00  → 19:00
 # gh-repo:
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
