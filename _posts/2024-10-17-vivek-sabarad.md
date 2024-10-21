@@ -15,13 +15,14 @@ mathjax: true
 author: Vivek Sabarad 
 email: vivek.sabarad@students.iiserpune.ac.in
 position: "5th year BS-MS"
-wantimage: false
+wantimage: true
 wantpdf: false
 pdf: "assets/pdfs/Aug24/Vivek.pdf"
 images:
-  - path: "assets/img/Aug24/Vivek.jpeg"
   - path: "assets/img/Aug24/Vivek1.jpeg"
   - path: "assets/img/Aug24/Vivek2.jpeg"
+  - path: "assets/img/Aug24/Vivek3.jpeg"
+  - path: "assets/img/Aug24/Vivek4.jpeg"
 ---
 {: .box-note}
 Machine learning is a powerful tool for analyzing complex datasets, but its application to quantum systems presents unique challenges. Kernels, which measure the similarity between data points, are a key component of many machine learning algorithms. Quantum kernels offer the potential to extend the idea to quantum data that are inaccessible to classical kernels. This talk presents an experimental realization of quantum kernels using Nuclear Magnetic Resonance (NMR) quantum computers, highlighting its significance as a step towards quantum learning with quantum data as input. A basic understanding of quantum mechanics is necessary to grasp the concepts presented in this talk. Familiarity with classical machine learning aspects would be beneficial but not required. 
