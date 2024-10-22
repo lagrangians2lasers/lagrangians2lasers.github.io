@@ -16,7 +16,7 @@ author: Vivek Sabarad
 email: vivek.sabarad@students.iiserpune.ac.in
 position: "5th year BS-MS"
 wantimage: true
-wantpdf: false
+wantpdf: true
 pdf: "assets/pdfs/Aug24/Vivek.pdf"
 images:
   - path: "assets/img/Aug24/Vivek1.jpeg"
