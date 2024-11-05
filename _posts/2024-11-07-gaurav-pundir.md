@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using ML in cosmological simulations to efficiently model the reionization era"
-subtitle: Quantum Information
+subtitle: Cosmological Simulations
 Location: LHC 106
 Time: 18:00  → 19:00
 # gh-repo:
