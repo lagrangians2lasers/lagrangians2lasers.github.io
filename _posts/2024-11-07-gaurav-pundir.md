@@ -7,7 +7,7 @@ Time: 18:00  → 19:00
 # gh-repo:
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
-thumbnail-img: /assets/img/Aug24/Gaurav-thumb.jpg
+thumbnail-img: /assets/img/Aug24/Gaurav-thumb.jpeg
 share-img: /assets/img/mybanner.png
 tags: [ASTRO, COSMO, ML, SIMULATION, COMPUTATIONAL]
 comments: true
