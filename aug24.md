@@ -27,6 +27,8 @@ images:
     caption: "Shweta Shankar's Talk - Oct '24"
   - path: "assets/img/Aug24/Meghana1.jpeg"
     caption: "Meghana Ajith's Talk - Oct '24"
+  - path: "assets/img/Aug24/Gaurav1.jpeg"
+    caption: "Gaurav Pundir's Talk - Nov '24"
 ---
 
 <div class="post-list">

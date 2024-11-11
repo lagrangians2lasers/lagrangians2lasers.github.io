@@ -9,6 +9,8 @@ images:
     caption: "First 50 attendees: A milestone for L2L in August 2024"
   - path: "assets/img/Aug24/2Aug24.png"
     caption: "From blank slates to bustling spaces! - Aug '24"
+  - path: "assets/img/Aug24/Gaurav1.jpeg"
+    caption: "Gaurav Pundir's Talk - Nov '24"
   - path: "assets/img/Aug24/Shweta1.jpeg"
     caption: "Shweta Shankar's Talk - Oct '24"
   - path: "assets/img/Aug24/Meghana1.jpeg"
