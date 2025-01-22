@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Einstein correct: Non-Linear black hole merger and ringdown"
+title: "Is Einstein correct? : Non-Linear black hole merger and ringdown"
 subtitle: Gravity 
 Location: LHC 106
 Time: 18:30  → 19:30
