@@ -7,7 +7,7 @@ Time: 18:30  → 19:30
 # gh-repo:
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/.jpg
-thumbnail-img: /assets/img/Jan25/Jassi-thumb.jpg
+thumbnail-img: /assets/img/Jan25/Jassi-thumb.jpeg
 share-img: /assets/img/mybanner.png
 tags: [GRAVITY, GR, THEORY]
 comments: true
