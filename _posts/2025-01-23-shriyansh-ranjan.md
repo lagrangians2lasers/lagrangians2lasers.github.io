@@ -25,5 +25,5 @@ images:
   - path: "assets/img/Jan25/Shiru4.jpeg"
 ---
 {: .box-note}
-"In the quest to explore new particles and physics beyond the standard model, high-energy physics searches analyze vast amounts of data, often costing a lot of money and effort. While these analyses are typically designed to address specific questions, the results they produce can often be repurposed to test new theories and scenarios. This process, known as reinterpretation, is a lot more efficient than designing a new analysis, and elevates the scientific value of existing data.
-In this talk, I will discuss the methodology of reinterpretation and the challenges involved. Not much prerequisites are needed and the terminologies involved would be explained."
+In the quest to explore new particles and physics beyond the standard model, high-energy physics searches analyze vast amounts of data, often costing a lot of money and effort. While these analyses are typically designed to address specific questions, the results they produce can often be repurposed to test new theories and scenarios. This process, known as reinterpretation, is a lot more efficient than designing a new analysis, and elevates the scientific value of existing data.
+In this talk, I will discuss the methodology of reinterpretation and the challenges involved. Not much prerequisites are needed and the terminologies involved would be explained.
