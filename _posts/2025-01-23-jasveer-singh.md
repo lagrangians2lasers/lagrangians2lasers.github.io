@@ -15,7 +15,7 @@ mathjax: true
 author: Jasveer Singh 
 email: jasveer.singh@students.iiserpune.ac.in
 position: "5th year BS-MS"
-wantimage: false
+wantimage: true
 wantpdf: false
 pdf: "assets/pdfs/Aug24/Jassi.pdf"
 images:
