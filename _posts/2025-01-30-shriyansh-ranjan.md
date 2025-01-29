@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reinterpretations: How to use published results in EHEP to our advantage?"
+title: "Reinterpretations: How to use published results in EHEP to our advantage"
 subtitle: High Energy Physics
 Location: LHC 106
 Time: 18:30  → 19:30
