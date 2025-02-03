@@ -15,9 +15,9 @@ mathjax: true
 author: Shriyansh Ranjan 
 email: shriyansh.ranjan@students.iiserpune.ac.in
 position: "5th year BS-MS"
-wantimage: false
-wantpdf: false
-pdf: "assets/pdfs/Aug24/Shiru.pdf"
+wantimage: true
+wantpdf: true
+pdf: "assets/pdfs/Jan25/shiru.pdf"
 images:
   - path: "assets/img/Jan25/Shiru1.jpeg"
   - path: "assets/img/Jan25/Shiru2.jpeg"
