@@ -15,14 +15,14 @@ mathjax: true
 author: Harrsh Goyal 
 email: harrsh.goyal@students.iiserpune.ac.in
 position: "5th year BS-MS"
-wantimage: false
-wantpdf: false
-pdf: "assets/pdfs/Jan25/shiru.pdf"
+wantimage: true
+wantpdf: true
+pdf: "assets/pdfs/Jan25/harrsh2.pdf"
 images:
-  - path: "assets/img/Jan25/Shiru1.jpeg"
-  - path: "assets/img/Jan25/Shiru2.jpeg"
-  - path: "assets/img/Jan25/Shiru3.jpeg"
-  - path: "assets/img/Jan25/Shiru4.jpeg"
+  - path: "assets/img/Jan25/goyal1.jpeg"
+  - path: "assets/img/Jan25/goyal2.jpeg"
+  - path: "assets/img/Jan25/goyal3.jpeg"
+  - path: "assets/img/Jan25/goyal4.jpeg"
 ---
 {: .box-note}
 Note: This talk will discuss both theoretical and experimental aspects of Dark Matter research.
