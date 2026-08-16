@@ -8,4 +8,4 @@
 :HL["/assets/img/new_ltl1333.png","image"]
 :HL["/assets/img/new_l2l.png","image"]
 :HL["/assets/img/new_logo.jpeg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"c","key":"2024-09-05-aashish-jaiswal","siblings":[]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"QrJSfjK3BXgx0uSYrTJs-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"c","key":"2024-09-05-aashish-jaiswal","siblings":[]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"7Ug5NmoCdiem_ygF9gC4G"}
