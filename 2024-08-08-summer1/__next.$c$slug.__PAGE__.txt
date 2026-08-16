@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:T1575,<p>{: .box-warning}
+<strong>Note:</strong> This session features brief, insightful talks of 15 mins each from early-stage BS-MS students, showcasing their summer projects. It’s an opportunity to gain entry level understanding of various sub-fields of physics from your peer.</p>
+<p>{: .box-note}
+<strong>1. Pulsed Laser Deposition and its applications</strong>
+by <strong>Ira Mishra</strong>
+<br>
+Condensed Matter Physics
+<br>
+<br>
+Talk will explain, What is pulsed laser deposition, what are the various parameters to control it, it's applications, advantages and disadvantages, use in basic science, and plasmonic properties.
+<br>
+<br>
+<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> ira.mishra_AT_students.iiserpune.ac.in</p>
+<p>{: .box-note}
+<strong>2. What does Absolute Temperature really mean?</strong>
+by <strong>Angad Singh</strong>
+<br>
+Statistical Physics
+<br>
+<br>
+The concept of Temperature is precisely quantified by using entropy. And it can be negative but the numerical value is deceptive in unusual circumstances. Not much prior knowledge is required for my talk, as a very first principles discussion is expected.
+<br>
+<br>
+<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> angad.singh_AT_students.iiserpune.ac.in</p>
+<p>{: .box-note}
+<strong>3. High Temperature Resistivity</strong>
+by <strong>Harini Karthikeyan</strong>
+<br>
+Experimental Condensed Matter Physics
+<br>
+<br>
+In the rapidly advancing field of scientific research, instrumentation forms the backbone for empirical science. I will describe the construction of a low-cost, high-temperature resistivity measurement setup designed to measure the electrical resistivity (ρ) of metals, semiconductors, and thermoelectric materials from room temperature up to 500°C. Additionally, I will discuss the motivation behind this project and its significance in the field of physics.
+<br>
+<br>
+<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> harini.k_AT_students.iiserpune.ac.in</p>
+<p>{: .box-note}
+<strong>4. Simulating and fitting HEP phenomena</strong>
+by <strong>Piyush Kolhe</strong>
+<br>
+High Energy Physics
+<br>
+<br>
+High Energy Physics (HEP) is of great importance in increasing our knowledge of the small fundamental/non-fundamental particles that make the world around us. There is no need for much background knowledge for this talk. The talk aims to introduce the basics of High Energy Physics (HEP), and to talk about simulating HEP phenomena, and how curve fitting is used to extrapolate and make predictions. The talk also aims to develop an appreciation of how we use computation tools to better our understanding of the universe.
+<br>
+<br>
+<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> piyush.vinitkolhe_AT_students.iiserpune.ac.in</p>
+<p>{: .box-note}
+<strong>5. Searching for right-handed neutrinos</strong>
+by <strong>Niveditha Warrier</strong>
+<br>
+High Energy Physics
+<br>
+<br>
+Right handed neutrinos have never been observed. If such particles exist, then we should look for them in the region where they (signal) are in abundance compared to the background. My project was aimed at finding such a region where signal can be improved and background reduced - a region where right handed neutrinos could potentially be discovered.
+<br>
+<br>
+<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> niveditha.swarrier_AT_students.iiserpune.ac.in</p>
+<!-- PDF Printout -->
+<style>
+.pdf-container {
+width: 100%;
+    overflow: auto;
+}
+
+.pdf-printout iframe {
+    width: 100%;
+    height: 550px; /* Default height for larger screens */
+    border: none;
+}
+    
+@media (max-width: 768px) {
+    .pdf-printout iframe {
+    height: 400px; /* Adjust height for medium screens */
+    }
+}
+    
+@media (max-width: 480px) {
+    .pdf-printout iframe {
+    height: 300px; /* Adjust height for small screens */
+    }
+}
+</style>
+<h5 style="font-weight: bold;"><em>Resources</em></h5>
+<h5 style="font-weight: normal;"><em>1. Pulsed Laser Deposition and its applications by Ira Mishra</em></h5>
+<div class="pdf-container">
+    <div class="pdf-printout">
+        <iframe src="{{ " assets="" pdfs="" aug24="" ira.pdf&#x22;="" |="" relative_url="" }}&#x22;=""></iframe>
+    </div>
+</div>
+<p></p>
+<h5 style="font-weight: normal;"><em>2. What does Absolute Temperature really mean? by Angad Singh</em></h5>
+<div class="pdf-container">
+    <div class="pdf-printout">
+        <iframe src="{{ " assets="" pdfs="" aug24="" angad.pdf&#x22;="" |="" relative_url="" }}&#x22;=""></iframe>
+    </div>
+</div>
+<p></p>
+<h5 style="font-weight: normal;"><em>3. High Temperature Resistivity by Harini Karthikeyan</em></h5>
+<div class="pdf-container">
+    <div class="pdf-printout">
+        <iframe src="{{ " assets="" pdfs="" aug24="" harini.pdf&#x22;="" |="" relative_url="" }}&#x22;=""></iframe>
+    </div>
+</div>
+<p></p>
+<h5 style="font-weight: normal;"><em>4. Simulating and fitting HEP phenomena by Piyush Kolhe</em></h5>
+<div class="pdf-container">
+    <div class="pdf-printout">
+        <iframe src="{{ " assets="" pdfs="" aug24="" piyush.pdf&#x22;="" |="" relative_url="" }}&#x22;=""></iframe>
+    </div>
+</div>
+<p></p>
+<h5 style="font-weight: normal;"><em>5. Searching for right-handed neutrinos by Niveditha Warrier</em></h5>
+<div class="pdf-container">
+    <div class="pdf-printout">
+        <iframe src="{{ " assets="" pdfs="" aug24="" niveditha.pdf&#x22;="" |="" relative_url="" }}&#x22;=""></iframe>
+    </div>
+</div>
+<p></p>6:X
+b:X
+b:C
+0:{"buildId":"QrJSfjK3BXgx0uSYrTJs-","data":[{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"header-section","children":["$","div",null,{"className":"intro-header","children":[["$","div",null,{"className":"container-md","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$","div",null,{"className":"post-heading","children":[["$","h1",null,{"children":"Summer Sprints : Volume 1"}],false,["$","h2",null,{"className":"post-subheading","children":"Early BS-MS summer projects"}],["$","div",null,{"className":"event-details","children":[["$","div",null,{"className":"event-details-small-screen d-md-none","children":[["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-calendar-alt"}]," ",["$","i",null,{"children":"August 8, 2024"}],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","span",null,{"className":"fa-solid fa-clock"}]," ",["$","i",null,{"children":"18:00  → 19:30"}]]]}]}],["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-map-marker-alt"}]," ",["$","i",null,{"children":"LHC 106"}]]}]}]]}],["$","div",null,{"className":"event-details-large-screen d-none d-md-block","children":["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-calendar-alt"}]," ",["$","i",null,{"children":"August 8, 2024"}],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","span",null,{"className":"fa-solid fa-clock"}]," ",["$","i",null,{"children":"18:00  → 19:30"}]],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","i",null,{"className":"fas fa-map-marker-alt"}]," ",["$","i",null,{"children":"LHC 106"}]]]}]}]}]]}],[["$","p",null,{}],["$","h5",null,{"style":{"fontWeight":"normal"},"children":["By ",["$","strong",null,{"children":"Ira Mishra, Angad Singh, Harini Karthikeyan, Piyush Kolhe, Niveditha Warrier"}]]}],["$","h6",null,{"style":{"fontWeight":"normal"},"children":"1st & 2nd year BS-MS"}],"$undefined"]]}]}]}]}],false]}]}],["$","main",null,{"className":"container-md","role":"main","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$undefined",["$","p",null,{}],["$","div",null,{"className":"blog-post","dangerouslySetInnerHTML":{"__html":"$2"}}],false]}]}]}]],["$L3"],"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"}],"isUpgradeableISRFallback":false,"a":"$@c","rootVaryParams":null,"needsRuntimeRequest":"$@d"}
+e:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+13:I[39756,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+14:I[37457,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+3:["$","script","script-0",{"src":"/_next/static/chunks/3vlxurryo97ot.js","async":true}]
+4:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+7:["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lagrangians to Lasers"}],["$","meta","1",{"name":"description","content":"Physics Journal Club, IISER Pune"}],["$","meta","2",{"name":"keywords","content":"Lagrangians to Lasers, Physics, Journal club, IISER Pune"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+9:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","template":["$","$L14",null,{}]}]]}]
+d:true
+10:null
+6:300
+6:C
+c:0
+8:"$undefined"
+a:"$undefined"
+5:"$undefined"

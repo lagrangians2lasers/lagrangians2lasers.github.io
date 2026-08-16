@@ -1,0 +1,181 @@
+1:"$Sreact.fragment"
+2:T25a9,<p>{: .box-success}
+This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to <a href="https://markdowntutorial.com/">take 5 minutes to learn how to write in markdown</a> - it'll teach you how to transform regular text into bold/italics/tables/etc.<br>I also encourage you to look at the <a href="https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md">code that created this post</a> to learn some more advanced tips about using markdown in Beautiful Jekyll.</p>
+<p><strong>Here is some bold text</strong></p>
+<h2>Here is a secondary heading</h2>
+<p><a href="https://deanattali.com/">This is a link to a different site</a> and <a href="#local-urls">this is a link to a section inside this page</a>.</p>
+<p>Here's a table:</p>
+<p>| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |</p>
+<p>You can use <a href="https://www.mathjax.org/">MathJax</a> to write LaTeX expressions. For example:
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
+<p>How about a yummy crepe?</p>
+<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe"></p>
+<p>It can also be centered!</p>
+<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe">{: .mx-auto.d-block :}</p>
+<p>Here's a code chunk:</p>
+<pre><code>var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+</code></pre>
+<p>And here is the same code with syntax highlighting:</p>
+<pre><code class="language-javascript">var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+</code></pre>
+<p>And here is the same code yet again but with line numbers:</p>
+<p>var foo = function(x) {
+return(x + 5);
+}
+foo(3)</p>
+<h2>Boxes</h2>
+<p>You can add notification, warning and error boxes like this:</p>
+<h3>Notification</h3>
+<p>{: .box-note}
+<strong>Note:</strong> This is a notification box.</p>
+<h3>Warning</h3>
+<p>{: .box-warning}
+<strong>Warning:</strong> This is a warning box.</p>
+<h3>Error</h3>
+<p>{: .box-error}
+<strong>Error:</strong> This is an error box.</p>
+<h2>Local URLs in project sites {#local-urls}</h2>
+<p>When hosting a <em>project site</em> on GitHub Pages (for example, <code>https://USERNAME.github.io/MyProject</code>), URLs that begin with <code>/</code> and refer to local files may not work correctly due to how the root URL (<code>/</code>) is interpreted by GitHub Pages. You can read more about it <a href="https://beautifuljekyll.com/faq/#links-in-project-page">in the FAQ</a>. To demonstrate the issue, the following local image will be broken <strong>if your site is a project site:</strong></p>
+<p><img src="/assets/img/crepe.jpg" alt="Crepe"></p>
+<p>If the above image is broken, then you'll need to follow the instructions <a href="https://beautifuljekyll.com/faq/#links-in-project-page">in the FAQ</a>. Here is proof that it can be fixed:</p>
+<p><img src="" alt="Crepe"></p>
+<p>To be honest, I'm having some trouble remembering right now, so why don't you just watch <a href="https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29">my movie</a> and it will answer <strong>all</strong> your questions.</p>
+<hr>
+<p>layout: post
+title: Can ML Accelerate Particle Simulations?
+subtitle: Experimental High Energy Physics
+Location: LHC 106
+Time: 18:00  → 19:00</p>
+<h1>gh-repo: daattali/beautiful-jekyll</h1>
+<h1>gh-badge: [star, fork, follow]</h1>
+<h1>cover-img: /assets/img/path.jpg</h1>
+<h1>thumbnail-img: /assets/img/thumb.png</h1>
+<h1>share-img: /assets/img/path.jpg</h1>
+<h2>tags: [ML]
+comments: true
+mathjax: true
+author: Chitrakshee Yede</h2>
+<p>{: .box-note}
+Over the last decade, machine learning techniques have been widely adopted by various domains in particle physics. I will discuss using such ML algorithms and simulations in particle physics analysis and the challenges they present. Then, I will introduce a new approach I have been working on, explaining how I built an ML-based pipeline to generate faster simulations in reduced dimensions.</p>
+<p><strong>Here is some bold text</strong></p>
+<h2>Here is a secondary heading</h2>
+<p><a href="https://apple.com/">This is a link to a different site</a> and <a href="#local-urls">this is a link to a section inside this page</a>.</p>
+<p>Here's a table:</p>
+<p>| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |</p>
+<p>You can use <a href="https://www.mathjax.org/">MathJax</a> to write LaTeX expressions. For example:
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
+<p>How about a yummy crepe?</p>
+<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe"></p>
+<p>It can also be centered!</p>
+<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe">{: .mx-auto.d-block :}</p>
+<p>Here's a code chunk:</p>
+<pre><code>var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+</code></pre>
+<p>And here is the same code with syntax highlighting:</p>
+<pre><code class="language-javascript">var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+</code></pre>
+<p>And here is the same code yet again but with line numbers:</p>
+<p>var foo = function(x) {
+return(x + 5);
+}
+foo(3)</p>
+<h2>Boxes</h2>
+<p>You can add notification, warning and error boxes like this:</p>
+<h3>Notification</h3>
+<p>{: .box-note}
+<strong>Note:</strong> This is a notification box.</p>
+<h3>Warning</h3>
+<p>{: .box-warning}
+<strong>Warning:</strong> This is a warning box.</p>
+<h3>Error</h3>
+<p>{: .box-error}
+<strong>Error:</strong> This is an error box.</p>
+<h2>Local URLs in project sites {#local-urls}</h2>
+<p>When hosting a <em>project site</em> on GitHub Pages (for example, <code>https://USERNAME.github.io/MyProject</code>), URLs that begin with <code>/</code> and refer to local files may not work correctly due to how the root URL (<code>/</code>) is interpreted by GitHub Pages. You can read more about it <a href="https://beautifuljekyll.com/faq/#links-in-project-page">in the FAQ</a>. To demonstrate the issue, the following local image will be broken <strong>if your site is a project site:</strong></p>
+<p><img src="/assets/img/crepe.jpg" alt="Crepe"></p>
+<p>If the above image is broken, then you'll need to follow the instructions <a href="https://beautifuljekyll.com/faq/#links-in-project-page">in the FAQ</a>. Here is proof that it can be fixed:</p>
+<p><img src="" alt="Crepe"></p>
+<h1>To use Facebook Comments, create a Facebook app and fill in the Facebook App ID</h1>
+<p>#fb_comment_id: ""</p>
+<h1>To use CommentBox, sign up for a Project ID on https://commentbox.io</h1>
+<p>#commentbox: "" # Project ID, e.g. "5694267682979840-proj"</p>
+<h1>To use Utterances comments: (0) uncomment the following section, (1) fill in</h1>
+<h1>"repository" (make sure the repository is public), (2) Enable Issues in your repository,</h1>
+<h1>(3) Install the Utterances app in your repository https://github.com/apps/utterances</h1>
+<h1>See more details about the parameters below at https://utteranc.es/</h1>
+<p>#utterances:</p>
+<h1>repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"</h1>
+<h1>issue-term: title   # Mapping between blog posts and GitHub issues</h1>
+<h1>theme: github-light # Utterances theme</h1>
+<h1>label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances</h1>
+<h1>To use Staticman comments, uncomment the following section. You may leave the reCaptcha</h1>
+<h1>section commented if you aren't using reCaptcha for spam protection.</h1>
+<h1>Using Staticman requires advanced knowledge, please consult</h1>
+<h1>https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further</h1>
+<h1>instructions. For any support with staticman please direct questions to staticman and</h1>
+<h1>not to BeautifulJekyll.</h1>
+<p>#staticman:</p>
+<h1>repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"</h1>
+<h1>branch     : master # If you're not using <code>master</code> branch, then you also need to update the <code>branch</code> parameter in <code>staticman.yml</code></h1>
+<h1>endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"</your-api></h1>
+<h1>reCaptcha:   # (optional, set these parameters in <code>staticman.yml</code> as well)</h1>
+<h1>siteKey  : # You need to apply for a site key on Google</h1>
+<h1>secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret></your-site-secret></your-own-api></h1>
+<h1>To use giscus comments:</h1>
+<h1>(0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository,</h1>
+<h1>(2) Install the giscus app in your repository (details at https://giscus.app),</h1>
+<h1>(3) Fill in <em>all</em> the parameters below</h1>
+<h1>See more details about giscus and each of the following parameters at https://giscus.app</h1>
+<p>#giscus:</p>
+<h1>hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting</h1>
+<h1>repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"</h1>
+<h1>repository-id: # ID of your repository, retrieve this info from https://giscus.app</h1>
+<h1>category: Announcements # Category name of your GitHub Discussion posts</h1>
+<h1>category-id: # ID of your category, retrieve this info from https://giscus.app</h1>
+<h1>mapping: pathname</h1>
+<h1>reactions-enabled: 1</h1>
+<h1>emit-metadata: 0</h1>
+<h1>theme: light</h1>6:X
+b:X
+b:C
+0:{"buildId":"QrJSfjK3BXgx0uSYrTJs-","data":[{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"header-section","children":["$","div",null,{"className":"intro-header","children":[["$","div",null,{"className":"container-md","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$","div",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Sample blog post to learn markdown tips"}],[["$","hr",null,{"className":"small"}],["$","span",null,{"className":"page-subheading","children":"There's lots to learn!"}]],false,false,false]}]}]}]}],false]}]}],["$","main",null,{"className":"container-md","role":"main","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$undefined",["$","p",null,{}],["$","div",null,{"className":"blog-post","dangerouslySetInnerHTML":{"__html":"$2"}}],false]}]}]}]],["$L3"],"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"}],"isUpgradeableISRFallback":false,"a":"$@c","rootVaryParams":null,"needsRuntimeRequest":"$@d"}
+e:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+13:I[39756,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+14:I[37457,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+3:["$","script","script-0",{"src":"/_next/static/chunks/3vlxurryo97ot.js","async":true}]
+4:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+7:["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lagrangians to Lasers"}],["$","meta","1",{"name":"description","content":"Physics Journal Club, IISER Pune"}],["$","meta","2",{"name":"keywords","content":"Lagrangians to Lasers, Physics, Journal club, IISER Pune"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+9:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","template":["$","$L14",null,{}]}]]}]
+d:true
+10:null
+6:300
+6:C
+c:0
+8:"$undefined"
+a:"$undefined"
+5:"$undefined"

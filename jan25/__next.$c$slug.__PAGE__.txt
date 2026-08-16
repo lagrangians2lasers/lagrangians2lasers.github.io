@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[339,["/_next/static/chunks/1mpnoxox0-4cg.js","/_next/static/chunks/3vlxurryo97ot.js"],"default"]
+3:I[70597,["/_next/static/chunks/1mpnoxox0-4cg.js","/_next/static/chunks/3vlxurryo97ot.js"],"default"]
+4:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+c:I[39756,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+d:I[37457,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+8:X
+f:X
+f:C
+0:{"buildId":"QrJSfjK3BXgx0uSYrTJs-","data":[{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"header-section","children":["$","div",null,{"className":"intro-header","children":[["$","div",null,{"className":"container-md","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$","div",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Jan '25"}],[["$","hr",null,{"className":"small"}],["$","span",null,{"className":"page-subheading","children":"January 2025 Semester"}]],false,false,false]}]}]}]}],false]}]}],["$","main",null,{"className":"container-md","role":"main","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":[["$","$L2",null,{"images":[{"path":"assets/img/Aug24/Aug24.png","caption":"First 50 attendees: A milestone for L2L in August 2024"}]}],["$","p",null,{}],["$","div",null,{"className":"blog-post","dangerouslySetInnerHTML":{"__html":""}}],["$","div",null,{"style":{"marginTop":"3rem"},"children":["$","$L3",null,{"allPosts":[{"title":"Dark Matter in Contemporary Research","slug":"2025-04-10-harrsh-goyal","author":"Harrsh Goyal","thumbnail-img":"/assets/img/Jan25/harrsh-thumb.jpeg","subtitle":"High Energy Physics & Cosmology","Time":"18:30  → 19:30","Location":"LHC 106"},{"title":"Reinterpretations: How to use published results in EHEP to our advantage","slug":"2025-01-30-shriyansh-ranjan","author":"Shriyansh Ranjan","thumbnail-img":"/assets/img/Jan25/Shiru-thumb.jpeg","subtitle":"High Energy Physics","Time":"18:30  → 19:30","Location":"LHC 106"},{"title":"Is Einstein correct? : Non-Linear black hole merger and ringdown","slug":"2025-01-23-jasveer-singh","author":"Jasveer Singh","thumbnail-img":"/assets/img/Jan25/Jassi-thumb.jpeg","subtitle":"Gravity","Time":"19:00  → 20:00","Location":"LHC 106"}]}]}]]}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/3vlxurryo97ot.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lagrangians to Lasers"}],["$","meta","1",{"name":"description","content":"Physics Journal Club, IISER Pune"}],["$","meta","2",{"name":"keywords","content":"Lagrangians to Lasers, Physics, Journal club, IISER Pune"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$8","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+6:null
+11:true
+8:300
+8:C
+10:0
+b:"$undefined"
+e:"$undefined"
+7:"$undefined"

@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+2:Ta20,<p>{: .box-warning}
+<strong>Note:</strong> This session features brief, insightful talks of 25 mins each from early-stage BS-MS students, showcasing their summer projects.</p>
+<p>{: .box-note}
+<strong>1. Tau &#x26; Jet Analysis and Fake Rate Calculation</strong>
+by <strong>Shweta Shankar</strong>
+<br>
+High Energy Physics
+<br>
+<br>
+Tau leptons and jets have very similar signatures in the particle detectors, which often leads to the misidentification of one as the other, and further leads to an incorrect understanding of the type of interaction between particles. So, part of my project aimed to analyze Taus and Jets, and the other, to find the rate at which a Jet fakes a Tau, and also, how changing certain factors would increase that Fake Rate.
+<br>
+<br>
+<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> shweta.shankar@students.iiserpune.ac.in</p>
+<p>{: .box-note}
+<strong>2. Trying out different cut-based Bottom Quark-Jet Tagging algorithms</strong>
+by <strong>Meghana Ajith</strong>
+<br>
+High Energy Physics
+<br>
+<br>
+This talk aims to discuss how algorithms based on cuts in different jet properties perform in identifying Bottom quark jets from other types of jets by exploring different ranges and layers of signal to background ratios and preservation of B-Jets.
+<br>
+<br>
+<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> meghana.ajith@students.iiserpune.ac.in</p>
+<!-- PDF Printout --> 
+<style>
+.pdf-container {
+width: 100%;
+    overflow: auto;
+}
+
+.pdf-printout iframe {
+    width: 100%;
+    height: 550px; /* Default height for larger screens */
+    border: none;
+}
+    
+@media (max-width: 768px) {
+    .pdf-printout iframe {
+    height: 400px; /* Adjust height for medium screens */
+    }
+}
+    
+@media (max-width: 480px) {
+    .pdf-printout iframe {
+    height: 300px; /* Adjust height for small screens */
+    }
+}
+</style>
+<h5 style="font-weight: bold;"><em>Resources</em></h5>
+<h5 style="font-weight: normal;"><em>1. Tau &#x26; Jet Analysis and Fake Rate Calculation by Shweta Shankar</em></h5>
+<div class="pdf-container">
+    <div class="pdf-printout">
+        <iframe src="{{ " assets="" pdfs="" aug24="" shweta.pdf&#x22;="" |="" relative_url="" }}&#x22;=""></iframe>
+    </div>
+</div>
+<p></p>
+<h5 style="font-weight: normal;"><em>2. Trying out different cut-based Bottom Quark-Jet Tagging algorithms by Meghana Ajith</em></h5>
+<div class="pdf-container">
+    <div class="pdf-printout">
+        <iframe src="{{ " assets="" pdfs="" aug24="" meghana.pdf&#x22;="" |="" relative_url="" }}&#x22;=""></iframe>
+    </div>
+</div>
+<p></p>6:X
+b:X
+b:C
+0:{"buildId":"QrJSfjK3BXgx0uSYrTJs-","data":[{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"header-section","children":["$","div",null,{"className":"intro-header","children":[["$","div",null,{"className":"container-md","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$","div",null,{"className":"post-heading","children":[["$","h1",null,{"children":"Summer Sprints : Volume 2"}],false,["$","h2",null,{"className":"post-subheading","children":"Early BS-MS summer projects"}],["$","div",null,{"className":"event-details","children":[["$","div",null,{"className":"event-details-small-screen d-md-none","children":[["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-calendar-alt"}]," ",["$","i",null,{"children":"October 24, 2024"}],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","span",null,{"className":"fa-solid fa-clock"}]," ",["$","i",null,{"children":"18:00  → 19:00"}]]]}]}],["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-map-marker-alt"}]," ",["$","i",null,{"children":"LHC 106"}]]}]}]]}],["$","div",null,{"className":"event-details-large-screen d-none d-md-block","children":["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-calendar-alt"}]," ",["$","i",null,{"children":"October 24, 2024"}],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","span",null,{"className":"fa-solid fa-clock"}]," ",["$","i",null,{"children":"18:00  → 19:00"}]],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","i",null,{"className":"fas fa-map-marker-alt"}]," ",["$","i",null,{"children":"LHC 106"}]]]}]}]}]]}],[["$","p",null,{}],["$","h5",null,{"style":{"fontWeight":"normal"},"children":["By ",["$","strong",null,{"children":"Shweta Shankar & Meghana Ajith"}]]}],["$","h6",null,{"style":{"fontWeight":"normal"},"children":"2nd year BS-MS"}],"$undefined"]]}]}]}]}],false]}]}],["$","main",null,{"className":"container-md","role":"main","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$undefined",["$","p",null,{}],["$","div",null,{"className":"blog-post","dangerouslySetInnerHTML":{"__html":"$2"}}],false]}]}]}]],["$L3"],"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"}],"isUpgradeableISRFallback":false,"a":"$@c","rootVaryParams":null,"needsRuntimeRequest":"$@d"}
+e:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+13:I[39756,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+14:I[37457,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+3:["$","script","script-0",{"src":"/_next/static/chunks/3vlxurryo97ot.js","async":true}]
+4:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+7:["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lagrangians to Lasers"}],["$","meta","1",{"name":"description","content":"Physics Journal Club, IISER Pune"}],["$","meta","2",{"name":"keywords","content":"Lagrangians to Lasers, Physics, Journal club, IISER Pune"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+9:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","template":["$","$L14",null,{}]}]]}]
+d:true
+10:null
+6:300
+6:C
+c:0
+8:"$undefined"
+a:"$undefined"
+5:"$undefined"
