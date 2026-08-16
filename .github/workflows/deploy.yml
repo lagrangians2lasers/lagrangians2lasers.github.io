@@ -1,0 +1,34 @@
+name: Deploy Next.js to Custom Branch
+
+on:
+  push:
+    branches:
+      - dev
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Next.js Static Files
+        run: npm run build
+
+      - name: Deploy to Target Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: out 
+          branch: gh-pages # 👈 Change this to your preferred deployment branch
+          clean: true 
