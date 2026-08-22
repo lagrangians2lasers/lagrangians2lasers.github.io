@@ -40,7 +40,9 @@ export default function PostList({ allPosts }: { allPosts: any[] }) {
               <article>
                 {post['thumbnail-img'] && (
                   <div className="post-thumbnail">
-                    <img src={post['thumbnail-img']} alt={post.title} style={{ maxWidth: "250px", height: "auto" }} />
+                    <Link href={`/${post.slug}`} tabIndex={-1} aria-hidden="true">
+                      <img src={post['thumbnail-img']} alt={post.title} />
+                    </Link>
                   </div>
                 )}
 
