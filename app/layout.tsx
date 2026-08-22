@@ -30,6 +30,7 @@ export default function RootLayout({
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
         <link rel="stylesheet" href="/assets/css/bootstrap-social.css" />
         <link rel="stylesheet" href="/assets/css/beautifuljekyll-compiled.css" />
+        <meta name="google-site-verification" content="Sfyyjug8IAVuhQnj2GBhYRkphQSRT7u69RQXfLmPIE0" />
       </head>
       <body>
         <Navbar />
