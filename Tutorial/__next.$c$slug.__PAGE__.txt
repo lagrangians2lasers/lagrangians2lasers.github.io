@@ -1,6 +1,7 @@
 1:"$Sreact.fragment"
-2:T25a9,<p>{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to <a href="https://markdowntutorial.com/">take 5 minutes to learn how to write in markdown</a> - it'll teach you how to transform regular text into bold/italics/tables/etc.<br>I also encourage you to look at the <a href="https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md">code that created this post</a> to learn some more advanced tips about using markdown in Beautiful Jekyll.</p>
+2:T25fd,<div class="box-success">
+<p>This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to <a href="https://markdowntutorial.com/">take 5 minutes to learn how to write in markdown</a> - it'll teach you how to transform regular text into bold/italics/tables/etc.<br>I also encourage you to look at the <a href="https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md">code that created this post</a> to learn some more advanced tips about using markdown in Beautiful Jekyll.</p>
+</div>
 <p><strong>Here is some bold text</strong></p>
 <h2>Here is a secondary heading</h2>
 <p><a href="https://deanattali.com/">This is a link to a different site</a> and <a href="#local-urls">this is a link to a section inside this page</a>.</p>
@@ -16,7 +17,7 @@ When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are 
 <p>How about a yummy crepe?</p>
 <p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe"></p>
 <p>It can also be centered!</p>
-<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe">{: .mx-auto.d-block :}</p>
+<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe"></p>
 <p>Here's a code chunk:</p>
 <pre><code>var foo = function(x) {
   return(x + 5);
@@ -37,14 +38,17 @@ foo(3)</p>
 <h2>Boxes</h2>
 <p>You can add notification, warning and error boxes like this:</p>
 <h3>Notification</h3>
-<p>{: .box-note}
-<strong>Note:</strong> This is a notification box.</p>
+<div class="box-note">
+<p><strong>Note:</strong> This is a notification box.</p>
+</div>
 <h3>Warning</h3>
-<p>{: .box-warning}
-<strong>Warning:</strong> This is a warning box.</p>
+<div class="box-warning">
+<p><strong>Warning:</strong> This is a warning box.</p>
+</div>
 <h3>Error</h3>
-<p>{: .box-error}
-<strong>Error:</strong> This is an error box.</p>
+<div class="box-error">
+<p><strong>Error:</strong> This is an error box.</p>
+</div>
 <h2>Local URLs in project sites {#local-urls}</h2>
 <p>When hosting a <em>project site</em> on GitHub Pages (for example, <code>https://USERNAME.github.io/MyProject</code>), URLs that begin with <code>/</code> and refer to local files may not work correctly due to how the root URL (<code>/</code>) is interpreted by GitHub Pages. You can read more about it <a href="https://beautifuljekyll.com/faq/#links-in-project-page">in the FAQ</a>. To demonstrate the issue, the following local image will be broken <strong>if your site is a project site:</strong></p>
 <p><img src="/assets/img/crepe.jpg" alt="Crepe"></p>
@@ -66,8 +70,9 @@ Time: 18:00  → 19:00</p>
 comments: true
 mathjax: true
 author: Chitrakshee Yede</h2>
-<p>{: .box-note}
-Over the last decade, machine learning techniques have been widely adopted by various domains in particle physics. I will discuss using such ML algorithms and simulations in particle physics analysis and the challenges they present. Then, I will introduce a new approach I have been working on, explaining how I built an ML-based pipeline to generate faster simulations in reduced dimensions.</p>
+<div class="box-note">
+<p>Over the last decade, machine learning techniques have been widely adopted by various domains in particle physics. I will discuss using such ML algorithms and simulations in particle physics analysis and the challenges they present. Then, I will introduce a new approach I have been working on, explaining how I built an ML-based pipeline to generate faster simulations in reduced dimensions.</p>
+</div>
 <p><strong>Here is some bold text</strong></p>
 <h2>Here is a secondary heading</h2>
 <p><a href="https://apple.com/">This is a link to a different site</a> and <a href="#local-urls">this is a link to a section inside this page</a>.</p>
@@ -83,7 +88,7 @@ When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are 
 <p>How about a yummy crepe?</p>
 <p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe"></p>
 <p>It can also be centered!</p>
-<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe">{: .mx-auto.d-block :}</p>
+<p><img src="https://beautifuljekyll.com/assets/img/crepe.jpg" alt="Crepe"></p>
 <p>Here's a code chunk:</p>
 <pre><code>var foo = function(x) {
   return(x + 5);
@@ -104,14 +109,17 @@ foo(3)</p>
 <h2>Boxes</h2>
 <p>You can add notification, warning and error boxes like this:</p>
 <h3>Notification</h3>
-<p>{: .box-note}
-<strong>Note:</strong> This is a notification box.</p>
+<div class="box-note">
+<p><strong>Note:</strong> This is a notification box.</p>
+</div>
 <h3>Warning</h3>
-<p>{: .box-warning}
-<strong>Warning:</strong> This is a warning box.</p>
+<div class="box-warning">
+<p><strong>Warning:</strong> This is a warning box.</p>
+</div>
 <h3>Error</h3>
-<p>{: .box-error}
-<strong>Error:</strong> This is an error box.</p>
+<div class="box-error">
+<p><strong>Error:</strong> This is an error box.</p>
+</div>
 <h2>Local URLs in project sites {#local-urls}</h2>
 <p>When hosting a <em>project site</em> on GitHub Pages (for example, <code>https://USERNAME.github.io/MyProject</code>), URLs that begin with <code>/</code> and refer to local files may not work correctly due to how the root URL (<code>/</code>) is interpreted by GitHub Pages. You can read more about it <a href="https://beautifuljekyll.com/faq/#links-in-project-page">in the FAQ</a>. To demonstrate the issue, the following local image will be broken <strong>if your site is a project site:</strong></p>
 <p><img src="/assets/img/crepe.jpg" alt="Crepe"></p>
@@ -160,22 +168,30 @@ foo(3)</p>
 <h1>theme: light</h1>6:X
 b:X
 b:C
-0:{"buildId":"7Ug5NmoCdiem_ygF9gC4G","data":[{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"header-section","children":["$","div",null,{"className":"intro-header","children":[["$","div",null,{"className":"container-md","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$","div",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Sample blog post to learn markdown tips"}],[["$","hr",null,{"className":"small"}],["$","span",null,{"className":"page-subheading","children":"There's lots to learn!"}]],false,false,false]}]}]}]}],false]}]}],["$","main",null,{"className":"container-md","role":"main","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$undefined",["$","p",null,{}],["$","div",null,{"className":"blog-post","dangerouslySetInnerHTML":{"__html":"$2"}}],false]}]}]}]],["$L3"],"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"}],"isUpgradeableISRFallback":false,"a":"$@c","rootVaryParams":null,"needsRuntimeRequest":"$@d"}
-e:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
-f:"$Sreact.suspense"
-11:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
-12:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
-13:I[39756,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
-14:I[37457,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
-3:["$","script","script-0",{"src":"/_next/static/chunks/3vlxurryo97ot.js","async":true}]
-4:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
-7:["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lagrangians to Lasers"}],["$","meta","1",{"name":"description","content":"Physics Journal Club, IISER Pune"}],["$","meta","2",{"name":"keywords","content":"Lagrangians to Lasers, Physics, Journal club, IISER Pune"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-9:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","template":["$","$L14",null,{}]}]]}]
-d:true
-10:null
+0:{"buildId":"tgqu2knga9ELHDG-oWX_-","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"hero-editorial","children":[["$","div",null,{"className":"hero-backdrop","style":{"backgroundImage":"url('/assets/img/dbgi.jpeg')"}}],["$","div",null,{"className":"hero-scrim"}],["$","div",null,{"className":"container-md hero-inner","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-9 col-lg-10","children":[["$","p",null,{"className":"hero-kicker","children":"Lagrangians to Lasers · IISER Pune"}],["$","h1",null,{"className":"hero-headline","children":"Sample blog post to learn markdown tips"}],["$","p",null,{"className":"hero-description","children":"There's lots to learn!"}],false,false]}]}]}]]}],["$","main",null,{"className":"container-md","role":"main","style":{"marginTop":"2rem"},"children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":[false,["$","div",null,{"className":"blog-post","dangerouslySetInnerHTML":{"__html":"$2"}}],false,false,false,false,false]}]}]}]],["$L3"],"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@e","rootVaryParams":null,"needsRuntimeRequest":"$@f"}
+10:I[97367,["/_next/static/chunks/2i4asutk1ebpr.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:I[97367,["/_next/static/chunks/2i4asutk1ebpr.js"],"ViewportBoundary"]
+14:I[97367,["/_next/static/chunks/2i4asutk1ebpr.js"],"MetadataBoundary"]
+15:I[39756,["/_next/static/chunks/2i4asutk1ebpr.js"],"default"]
+16:I[37457,["/_next/static/chunks/2i4asutk1ebpr.js"],"default"]
+17:I[62319,["/_next/static/chunks/2i4asutk1ebpr.js"],"default"]
+:HL["/_next/static/chunks/1k5o88pog87b2.css","style"]
+:HL["https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css","style"]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css","style"]
+:HL["/assets/css/bootstrap-social.css","style"]
+:HL["/assets/css/beautifuljekyll-compiled.css","style"]
+3:["$","script","script-0",{"src":"/_next/static/chunks/1t9v1w24d0yvc.js","async":true}]
+4:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+7:["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lagrangians to Lasers | Physics Journal Club, IISER Pune"}],["$","meta","1",{"name":"description","content":"Lagrangians to Lasers (L2L) is a journal club for Physics enthusiasts at the Indian Institute of Science Education and Research (IISER), Pune."}],["$","meta","2",{"name":"keywords","content":"Lagrangians to Lasers, Physics, Journal club, IISER Pune, Science, Seminar, Research"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+9:["$","$1","c",{"children":[null,["$","$L15",null,{"parallelRouterKey":"children","template":["$","$L16",null,{}]}]]}]
+c:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1k5o88pog87b2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2i4asutk1ebpr.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"lora_c06265ab-module__hGs1mq__variable open_sans_6487050-module__9grdqG__variable","children":[["$","head",null,{"children":[["$","link",null,{"href":"https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/bootstrap-social.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/beautifuljekyll-compiled.css"}]]}],["$","body",null,{"children":[["$","$L17",null,{}],["$","$L15",null,{"parallelRouterKey":"children","template":["$","$L16",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","footer",null,{"children":["$","div",null,{"className":"container-md beautiful-jekyll-footer","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":[["$","ul",null,{"className":"list-inline text-center footer-links","children":[["$","li",null,{"className":"list-inline-item","children":["$","a",null,{"href":"mailto:lagrangians2lasers@gmail.com","title":"Email us","children":[["$","span",null,{"className":"fa-stack fa-lg","aria-hidden":"true","children":[["$","i",null,{"className":"fas fa-circle fa-stack-2x"}],["$","i",null,{"className":"fas fa-envelope fa-stack-1x fa-inverse"}]]}],["$","span",null,{"className":"sr-only","children":"Email"}]]}]}],["$","li",null,{"className":"list-inline-item","children":["$","a",null,{"href":"https://chat.whatsapp.com/JMUyMXHGgXxBl9mI4NOWub?s=cl&p=i&ilr=0","target":"_blank","rel":"noopener noreferrer","title":"WhatsApp Community","children":[["$","span",null,{"className":"fa-stack fa-lg","aria-hidden":"true","children":[["$","i",null,{"className":"fas fa-circle fa-stack-2x"}],["$","i",null,{"className":"fab fa-whatsapp fa-stack-1x fa-inverse"}]]}],["$","span",null,{"className":"sr-only","children":"WhatsApp"}]]}]}],["$","li",null,{"className":"list-inline-item","children":["$","a",null,{"href":"https://www.instagram.com/lagrangians2lasers/","target":"_blank","rel":"noopener noreferrer","title":"Instagram","children":[["$","span",null,{"className":"fa-stack fa-lg","aria-hidden":"true","children":[["$","i",null,{"className":"fas fa-circle fa-stack-2x"}],["$","i",null,{"className":"fab fa-instagram fa-stack-1x fa-inverse"}]]}],["$","span",null,{"className":"sr-only","children":"Instagram"}]]}]}]]}],["$","p",null,{"className":"copyright text-muted","children":"Lagrangians to Lasers • Physics Journal Club, IISER Pune"}]]}]}]}]}]]}]]}]]}]
+12:null
+f:true
 6:300
 6:C
-c:0
+e:0
 8:"$undefined"
 a:"$undefined"
+d:"$undefined"
 5:"$undefined"

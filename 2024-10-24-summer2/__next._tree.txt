@@ -1,11 +1,8 @@
-:HL["/_next/static/chunks/2s2sfhgqs6e0y.css","style"]
+:HL["/_next/static/chunks/1k5o88pog87b2.css","style"]
 :HL["/_next/static/media/8c2eb9ceedecfc8e-s.p.23aeddxv5enbo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/cf514f5d0007dafa-s.p.1wc2mf9hp9pav.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css","style"]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css","style"]
 :HL["/assets/css/bootstrap-social.css","style"]
 :HL["/assets/css/beautifuljekyll-compiled.css","style"]
-:HL["/assets/img/new_ltl1333.png","image"]
-:HL["/assets/img/new_l2l.png","image"]
-:HL["/assets/img/new_logo.jpeg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"c","key":"2024-10-24-summer2","siblings":[]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"7Ug5NmoCdiem_ygF9gC4G"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"2024-10-24-summer2","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"tgqu2knga9ELHDG-oWX_-"}

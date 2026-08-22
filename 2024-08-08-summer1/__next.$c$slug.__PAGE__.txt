@@ -1,61 +1,42 @@
 1:"$Sreact.fragment"
-2:T1575,<p>{: .box-warning}
-<strong>Note:</strong> This session features brief, insightful talks of 15 mins each from early-stage BS-MS students, showcasing their summer projects. It’s an opportunity to gain entry level understanding of various sub-fields of physics from your peer.</p>
-<p>{: .box-note}
-<strong>1. Pulsed Laser Deposition and its applications</strong>
-by <strong>Ira Mishra</strong>
-<br>
-Condensed Matter Physics
-<br>
-<br>
-Talk will explain, What is pulsed laser deposition, what are the various parameters to control it, it's applications, advantages and disadvantages, use in basic science, and plasmonic properties.
-<br>
-<br>
-<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> ira.mishra_AT_students.iiserpune.ac.in</p>
-<p>{: .box-note}
-<strong>2. What does Absolute Temperature really mean?</strong>
-by <strong>Angad Singh</strong>
-<br>
-Statistical Physics
-<br>
-<br>
-The concept of Temperature is precisely quantified by using entropy. And it can be negative but the numerical value is deceptive in unusual circumstances. Not much prior knowledge is required for my talk, as a very first principles discussion is expected.
-<br>
-<br>
-<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> angad.singh_AT_students.iiserpune.ac.in</p>
-<p>{: .box-note}
-<strong>3. High Temperature Resistivity</strong>
-by <strong>Harini Karthikeyan</strong>
-<br>
-Experimental Condensed Matter Physics
-<br>
-<br>
-In the rapidly advancing field of scientific research, instrumentation forms the backbone for empirical science. I will describe the construction of a low-cost, high-temperature resistivity measurement setup designed to measure the electrical resistivity (ρ) of metals, semiconductors, and thermoelectric materials from room temperature up to 500°C. Additionally, I will discuss the motivation behind this project and its significance in the field of physics.
-<br>
-<br>
-<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> harini.k_AT_students.iiserpune.ac.in</p>
-<p>{: .box-note}
-<strong>4. Simulating and fitting HEP phenomena</strong>
-by <strong>Piyush Kolhe</strong>
-<br>
-High Energy Physics
-<br>
-<br>
-High Energy Physics (HEP) is of great importance in increasing our knowledge of the small fundamental/non-fundamental particles that make the world around us. There is no need for much background knowledge for this talk. The talk aims to introduce the basics of High Energy Physics (HEP), and to talk about simulating HEP phenomena, and how curve fitting is used to extrapolate and make predictions. The talk also aims to develop an appreciation of how we use computation tools to better our understanding of the universe.
-<br>
-<br>
-<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> piyush.vinitkolhe_AT_students.iiserpune.ac.in</p>
-<p>{: .box-note}
-<strong>5. Searching for right-handed neutrinos</strong>
-by <strong>Niveditha Warrier</strong>
-<br>
-High Energy Physics
-<br>
-<br>
-Right handed neutrinos have never been observed. If such particles exist, then we should look for them in the region where they (signal) are in abundance compared to the background. My project was aimed at finding such a region where signal can be improved and background reduced - a region where right handed neutrinos could potentially be discovered.
-<br>
-<br>
-<i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> niveditha.swarrier_AT_students.iiserpune.ac.in</p>
+2:T15c1,<div class="box-warning">
+<p><strong>Note:</strong> This session features brief, insightful talks of 15 mins each from early-stage BS-MS students, showcasing their summer projects. It’s an opportunity to gain entry level understanding of various sub-fields of physics from your peer.</p>
+</div>
+<div class="box-note">
+<p><strong>1. Pulsed Laser Deposition and its applications</strong>
+by <strong>Ira Mishra</strong></p>
+</div>
+<p>Condensed Matter Physics</p>
+<p>Talk will explain, What is pulsed laser deposition, what are the various parameters to control it, it's applications, advantages and disadvantages, use in basic science, and plasmonic properties.</p>
+<p><i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> ira.mishra_AT_students.iiserpune.ac.in</p>
+<div class="box-note">
+<p><strong>2. What does Absolute Temperature really mean?</strong>
+by <strong>Angad Singh</strong></p>
+</div>
+<p>Statistical Physics</p>
+<p>The concept of Temperature is precisely quantified by using entropy. And it can be negative but the numerical value is deceptive in unusual circumstances. Not much prior knowledge is required for my talk, as a very first principles discussion is expected.</p>
+<p><i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> angad.singh_AT_students.iiserpune.ac.in</p>
+<div class="box-note">
+<p><strong>3. High Temperature Resistivity</strong>
+by <strong>Harini Karthikeyan</strong></p>
+</div>
+<p>Experimental Condensed Matter Physics</p>
+<p>In the rapidly advancing field of scientific research, instrumentation forms the backbone for empirical science. I will describe the construction of a low-cost, high-temperature resistivity measurement setup designed to measure the electrical resistivity (ρ) of metals, semiconductors, and thermoelectric materials from room temperature up to 500°C. Additionally, I will discuss the motivation behind this project and its significance in the field of physics.</p>
+<p><i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> harini.k_AT_students.iiserpune.ac.in</p>
+<div class="box-note">
+<p><strong>4. Simulating and fitting HEP phenomena</strong>
+by <strong>Piyush Kolhe</strong></p>
+</div>
+<p>High Energy Physics</p>
+<p>High Energy Physics (HEP) is of great importance in increasing our knowledge of the small fundamental/non-fundamental particles that make the world around us. There is no need for much background knowledge for this talk. The talk aims to introduce the basics of High Energy Physics (HEP), and to talk about simulating HEP phenomena, and how curve fitting is used to extrapolate and make predictions. The talk also aims to develop an appreciation of how we use computation tools to better our understanding of the universe.</p>
+<p><i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> piyush.vinitkolhe_AT_students.iiserpune.ac.in</p>
+<div class="box-note">
+<p><strong>5. Searching for right-handed neutrinos</strong>
+by <strong>Niveditha Warrier</strong></p>
+</div>
+<p>High Energy Physics</p>
+<p>Right handed neutrinos have never been observed. If such particles exist, then we should look for them in the region where they (signal) are in abundance compared to the background. My project was aimed at finding such a region where signal can be improved and background reduced - a region where right handed neutrinos could potentially be discovered.</p>
+<p><i style="color: rgb(106, 20, 7);" class="fa-solid fa-envelope"></i> niveditha.swarrier_AT_students.iiserpune.ac.in</p>
 <!-- PDF Printout -->
 <style>
 .pdf-container {
@@ -116,25 +97,38 @@ width: 100%;
         <iframe src="{{ " assets="" pdfs="" aug24="" niveditha.pdf&#x22;="" |="" relative_url="" }}&#x22;=""></iframe>
     </div>
 </div>
-<p></p>6:X
-b:X
-b:C
-0:{"buildId":"7Ug5NmoCdiem_ygF9gC4G","data":[{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"header-section","children":["$","div",null,{"className":"intro-header","children":[["$","div",null,{"className":"container-md","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$","div",null,{"className":"post-heading","children":[["$","h1",null,{"children":"Summer Sprints : Volume 1"}],false,["$","h2",null,{"className":"post-subheading","children":"Early BS-MS summer projects"}],["$","div",null,{"className":"event-details","children":[["$","div",null,{"className":"event-details-small-screen d-md-none","children":[["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-calendar-alt"}]," ",["$","i",null,{"children":"August 8, 2024"}],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","span",null,{"className":"fa-solid fa-clock"}]," ",["$","i",null,{"children":"18:00  → 19:30"}]]]}]}],["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-map-marker-alt"}]," ",["$","i",null,{"children":"LHC 106"}]]}]}]]}],["$","div",null,{"className":"event-details-large-screen d-none d-md-block","children":["$","h6",null,{"children":["$","span",null,{"className":"date-time","children":[["$","i",null,{"className":"fas fa-calendar-alt"}]," ",["$","i",null,{"children":"August 8, 2024"}],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","span",null,{"className":"fa-solid fa-clock"}]," ",["$","i",null,{"children":"18:00  → 19:30"}]],[["$","span",null,{"className":"separator","style":{"margin":"0 5px"},"children":"|"}],["$","i",null,{"className":"fas fa-map-marker-alt"}]," ",["$","i",null,{"children":"LHC 106"}]]]}]}]}]]}],[["$","p",null,{}],["$","h5",null,{"style":{"fontWeight":"normal"},"children":["By ",["$","strong",null,{"children":"Ira Mishra, Angad Singh, Harini Karthikeyan, Piyush Kolhe, Niveditha Warrier"}]]}],["$","h6",null,{"style":{"fontWeight":"normal"},"children":"1st & 2nd year BS-MS"}],"$undefined"]]}]}]}]}],false]}]}],["$","main",null,{"className":"container-md","role":"main","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":["$undefined",["$","p",null,{}],["$","div",null,{"className":"blog-post","dangerouslySetInnerHTML":{"__html":"$2"}}],false]}]}]}]],["$L3"],"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"}],"isUpgradeableISRFallback":false,"a":"$@c","rootVaryParams":null,"needsRuntimeRequest":"$@d"}
-e:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
-f:"$Sreact.suspense"
-11:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
-12:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
-13:I[39756,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
-14:I[37457,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
-3:["$","script","script-0",{"src":"/_next/static/chunks/3vlxurryo97ot.js","async":true}]
-4:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
-7:["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lagrangians to Lasers"}],["$","meta","1",{"name":"description","content":"Physics Journal Club, IISER Pune"}],["$","meta","2",{"name":"keywords","content":"Lagrangians to Lasers, Physics, Journal club, IISER Pune"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-9:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","template":["$","$L14",null,{}]}]]}]
-d:true
-10:null
-6:300
-6:C
-c:0
+<p></p>9:X
+e:X
+e:C
+0:{"buildId":"tgqu2knga9ELHDG-oWX_-","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"hero-editorial","children":[["$","div",null,{"className":"hero-backdrop","style":{"backgroundImage":"url('/assets/img/dbgi.jpeg')"}}],["$","div",null,{"className":"hero-scrim"}],["$","div",null,{"className":"container-md hero-inner","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-9 col-lg-10","children":[["$","p",null,{"className":"hero-kicker","children":"Journal Club Talk · IISER Pune"}],["$","h1",null,{"className":"hero-headline","children":"Summer Sprints : Volume 1"}],["$","p",null,{"className":"hero-description","children":"Early BS-MS summer projects"}],["$","div",null,{"className":"hero-meta","children":[["$","span",null,{"children":[["$","i",null,{"className":"fas fa-calendar-alt"}]," ","August 8, 2024"]}],[["$","span",null,{"className":"separator","children":"·"}],["$","span",null,{"children":[["$","i",null,{"className":"fa-solid fa-clock"}]," ","18:00  → 19:30"]}]],[["$","span",null,{"className":"separator","children":"·"}],["$","span",null,{"children":[["$","i",null,{"className":"fas fa-map-marker-alt"}]," ","LHC 106"]}]]]}],["$","div",null,{"className":"hero-speaker-info","children":[["$","span",null,{"children":["By ",["$","strong",null,{"children":"Ira Mishra, Angad Singh, Harini Karthikeyan, Piyush Kolhe, Niveditha Warrier"}]]}],["$","span",null,{"children":"1st & 2nd year BS-MS"}],"$undefined"]}]]}]}]}]]}],["$","main",null,{"className":"container-md","role":"main","style":{"marginTop":"2rem"},"children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":[false,["$","div",null,{"className":"blog-post","dangerouslySetInnerHTML":{"__html":"$2"}}],false,"$L3","$L4","$L5",false]}]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[339,["/_next/static/chunks/2i4asutk1ebpr.js","/_next/static/chunks/1t9v1w24d0yvc.js"],"default"]
+14:I[22016,["/_next/static/chunks/2i4asutk1ebpr.js","/_next/static/chunks/1t9v1w24d0yvc.js"],""]
+15:I[97367,["/_next/static/chunks/2i4asutk1ebpr.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[97367,["/_next/static/chunks/2i4asutk1ebpr.js"],"ViewportBoundary"]
+19:I[97367,["/_next/static/chunks/2i4asutk1ebpr.js"],"MetadataBoundary"]
+1a:I[39756,["/_next/static/chunks/2i4asutk1ebpr.js"],"default"]
+1b:I[37457,["/_next/static/chunks/2i4asutk1ebpr.js"],"default"]
+1c:I[62319,["/_next/static/chunks/2i4asutk1ebpr.js"],"default"]
+:HL["/_next/static/chunks/1k5o88pog87b2.css","style"]
+:HL["https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css","style"]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css","style"]
+:HL["/assets/css/bootstrap-social.css","style"]
+:HL["/assets/css/beautifuljekyll-compiled.css","style"]
+3:["$","div",null,{"style":{"marginTop":"2.5rem","marginBottom":"2rem"},"children":[["$","h4",null,{"style":{"fontWeight":700,"marginBottom":"1rem"},"children":[["$","i",null,{"className":"fas fa-images","style":{"color":"#146cb7","marginRight":"8px"}}],"Session Gallery"]}],["$","$L13",null,{"images":[{"path":"assets/img/Aug24/Aug24.png","caption":"First 50 attendees: A milestone for L2L"},{"path":"assets/img/Aug24/Ira1.png"},{"path":"assets/img/Aug24/Angad1.png"},{"path":"assets/img/Aug24/Harini1.png"},{"path":"assets/img/Aug24/Piyush1.png"},{"path":"assets/img/Aug24/Niveditha1.png"},{"path":"assets/img/Aug24/Ira2.png"},{"path":"assets/img/Aug24/Angad2.png"},{"path":"assets/img/Aug24/Harini2.png"},{"path":"assets/img/Aug24/Piyush2.png"},{"path":"assets/img/Aug24/Niveditha2.png"},{"path":"assets/img/Aug24/Ira3.png"},{"path":"assets/img/Aug24/Angad3.png"},{"path":"assets/img/Aug24/Harini3.png"},{"path":"assets/img/Aug24/Piyush3.png"},{"path":"assets/img/Aug24/Niveditha3.png"},{"path":"assets/img/Aug24/Ira4.png"},{"path":"assets/img/Aug24/Angad4.png"},{"path":"assets/img/Aug24/Harini4.png"},{"path":"assets/img/Aug24/Piyush4.png"},{"path":"assets/img/Aug24/Niveditha4.png"},{"path":"assets/img/Aug24/2Aug24.png"}]}]]}]
+4:["$","div",null,{"className":"blog-tags","style":{"marginTop":"2rem"},"children":[["$","span",null,{"children":"Tags: "}],["$","ul",null,{"className":"d-inline list-inline","role":"list","children":[["$","li","STAT_PHY",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","STAT_PHY"]}]}],["$","li","PARTICLE_PHY",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","PARTICLE_PHY"]}]}],["$","li","EHEP",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","EHEP"]}]}],["$","li","ENERGY",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","ENERGY"]}]}],["$","li","SIMULATION",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","SIMULATION"]}]}],["$","li","LASER",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","LASER"]}]}],["$","li","TEMPERATURE",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","TEMPERATURE"]}]}],["$","li","EXPERIMENT",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","EXPERIMENT"]}]}],["$","li","THEORY",{"className":"list-inline-item","style":{"marginRight":"5px"},"children":["$","span",null,{"style":{"backgroundColor":"#f1f5f9","color":"#475569","padding":"4px 10px","borderRadius":"12px","fontSize":"0.85rem","fontWeight":500,"display":"inline-block","border":"1px solid #e2e8f0"},"children":["#","THEORY"]}]}]]}]]}]
+5:["$","ul",null,{"className":"pagination blog-pager","style":{"marginTop":"2.5rem","borderTop":"1px solid #e2e8f0","paddingTop":"1.5rem"},"children":[["$","li",null,{"className":"page-item previous","children":["$","$L14",null,{"className":"page-link","href":"/2024-09-05-aashish-jaiswal","style":{"textDecoration":"none","borderRadius":"4px"},"children":[["$","i",null,{"className":"fas fa-arrow-left","style":{"marginRight":"6px"}}],["$","span",null,{"className":"d-none d-sm-inline-block","children":"Newer Talk"}]]}]}],["$","li",null,{"className":"page-item next","style":{"marginLeft":"auto"},"children":["$","$L14",null,{"className":"page-link","href":"/2024-04-11-chitrakshee-yede","style":{"textDecoration":"none","borderRadius":"4px"},"children":[["$","span",null,{"className":"d-none d-sm-inline-block","style":{"marginRight":"6px"},"children":"Older Talk"}],["$","i",null,{"className":"fas fa-arrow-right"}]]}]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/1t9v1w24d0yvc.js","async":true}]
+7:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+a:["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Lagrangians to Lasers | Physics Journal Club, IISER Pune"}],["$","meta","1",{"name":"description","content":"Lagrangians to Lasers (L2L) is a journal club for Physics enthusiasts at the Indian Institute of Science Education and Research (IISER), Pune."}],["$","meta","2",{"name":"keywords","content":"Lagrangians to Lasers, Physics, Journal club, IISER Pune, Science, Seminar, Research"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+f:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1k5o88pog87b2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2i4asutk1ebpr.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"lora_c06265ab-module__hGs1mq__variable open_sans_6487050-module__9grdqG__variable","children":[["$","head",null,{"children":[["$","link",null,{"href":"https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/bootstrap-social.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/beautifuljekyll-compiled.css"}]]}],["$","body",null,{"children":[["$","$L1c",null,{}],["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","footer",null,{"children":["$","div",null,{"className":"container-md beautiful-jekyll-footer","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-xl-8 offset-xl-2 col-lg-10 offset-lg-1","children":[["$","ul",null,{"className":"list-inline text-center footer-links","children":[["$","li",null,{"className":"list-inline-item","children":["$","a",null,{"href":"mailto:lagrangians2lasers@gmail.com","title":"Email us","children":[["$","span",null,{"className":"fa-stack fa-lg","aria-hidden":"true","children":[["$","i",null,{"className":"fas fa-circle fa-stack-2x"}],["$","i",null,{"className":"fas fa-envelope fa-stack-1x fa-inverse"}]]}],["$","span",null,{"className":"sr-only","children":"Email"}]]}]}],["$","li",null,{"className":"list-inline-item","children":["$","a",null,{"href":"https://chat.whatsapp.com/JMUyMXHGgXxBl9mI4NOWub?s=cl&p=i&ilr=0","target":"_blank","rel":"noopener noreferrer","title":"WhatsApp Community","children":[["$","span",null,{"className":"fa-stack fa-lg","aria-hidden":"true","children":[["$","i",null,{"className":"fas fa-circle fa-stack-2x"}],["$","i",null,{"className":"fab fa-whatsapp fa-stack-1x fa-inverse"}]]}],["$","span",null,{"className":"sr-only","children":"WhatsApp"}]]}]}],["$","li",null,{"className":"list-inline-item","children":["$","a",null,{"href":"https://www.instagram.com/lagrangians2lasers/","target":"_blank","rel":"noopener noreferrer","title":"Instagram","children":[["$","span",null,{"className":"fa-stack fa-lg","aria-hidden":"true","children":[["$","i",null,{"className":"fas fa-circle fa-stack-2x"}],["$","i",null,{"className":"fab fa-instagram fa-stack-1x fa-inverse"}]]}],["$","span",null,{"className":"sr-only","children":"Instagram"}]]}]}]]}],["$","p",null,{"className":"copyright text-muted","children":"Lagrangians to Lasers • Physics Journal Club, IISER Pune"}]]}]}]}]}]]}]]}]]}]
+17:null
+12:true
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
 8:"$undefined"
-a:"$undefined"
-5:"$undefined"
