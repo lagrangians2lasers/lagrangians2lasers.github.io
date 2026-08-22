@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 
 type SlideImage = {
   path: string;
@@ -18,81 +18,74 @@ export default function ImageSlider({ images }: { images: SlideImage[] }) {
     setIndex((i) => (i > 0 ? i - 1 : images.length - 1));
   }, [images.length]);
 
+  // Keyboard navigation (ArrowLeft & ArrowRight)
   useEffect(() => {
-    if (images.length <= 1) return;
-    const interval = setInterval(next, 4000);
-    return () => clearInterval(interval);
-  }, [images.length, next]);
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "ArrowLeft") prev();
+      if (e.key === "ArrowRight") next();
+    };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [next, prev]);
 
   if (!images || images.length === 0) return null;
 
   return (
-    <div className="slider-wrapper" style={{ margin: "2rem 0" }}>
-      <div className="image-slider">
+    <div className="slider-container">
+      <div className="slider-viewport">
         <div
-          className="slides"
+          className="slider-track"
           style={{ transform: `translateX(-${index * 100}%)` }}
         >
           {images.map((img, i) => {
             const src = img.path.startsWith("/") ? img.path : `/${img.path}`;
             return (
-              <div key={i} className="slide">
-                <img src={src} alt={img.caption || `Slide ${i + 1}`} />
-                {img.caption && <div className="caption">{img.caption}</div>}
+              <div key={i} className="slider-item">
+                <img
+                  src={src}
+                  alt={img.caption || `Slide ${i + 1}`}
+                  loading="lazy"
+                />
               </div>
             );
           })}
         </div>
+
         {images.length > 1 && (
           <>
             <button
-              className="prev"
+              type="button"
+              className="slider-btn slider-btn-prev"
               onClick={prev}
               aria-label="Previous slide"
             >
-              &#10094;
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                <polyline points="15 18 9 12 15 6" />
+              </svg>
             </button>
             <button
-              className="next"
+              type="button"
+              className="slider-btn slider-btn-next"
               onClick={next}
               aria-label="Next slide"
             >
-              &#10095;
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                <polyline points="9 18 15 12 9 6" />
+              </svg>
             </button>
-            <div
-              className="slider-dots"
-              style={{
-                position: "absolute",
-                bottom: "12px",
-                left: "50%",
-                transform: "translateX(-50%)",
-                display: "flex",
-                gap: "6px",
-                zIndex: 11,
-              }}
-            >
-              {images.map((_, i) => (
-                <button
-                  key={i}
-                  onClick={() => setIndex(i)}
-                  style={{
-                    width: i === index ? "20px" : "8px",
-                    height: "8px",
-                    borderRadius: "4px",
-                    border: "none",
-                    backgroundColor:
-                      i === index ? "#ffffff" : "rgba(255, 255, 255, 0.5)",
-                    cursor: "pointer",
-                    padding: 0,
-                    transition: "all 0.3s ease",
-                  }}
-                  aria-label={`Go to slide ${i + 1}`}
-                />
-              ))}
+            
+            <div className="slider-counter">
+              <span>{index + 1}</span> / <span>{images.length}</span>
             </div>
           </>
         )}
       </div>
+
+      {images[index]?.caption && (
+        <div className="slider-caption-box">
+          <p>{images[index].caption}</p>
+        </div>
+      )}
     </div>
   );
 }

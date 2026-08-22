@@ -9,14 +9,14 @@ layout: null
   --page-col: {{ site.page-col | default: "#FFFFFF" }};
   --text-col: {{ site.text-col | default: "#404040" }};
   --link-col: {{ site.link-col | default: "#146cb7" }};
-  --hover-col: {{ site.hover-col | default: "#0085A1" }};
+  --hover-col: {{ site.hover-col | default: "#146cb7" }};
   --navbar-col: {{ site.navbar-col | default: "#EAEAEA" }};
   --navbar-text-col: {{ site.navbar-text-col | default: "#404040" }};
   --navbar-border-col: {{ site.navbar-border-col | default: "#DDDDDD" }};
   --footer-col: {{ site.footer-col | default: "#EAEAEA" }};
   --footer-text-col: {{ site.footer-text-col | default: "#777777" }};
   --footer-link-col: {{ site.footer-link-col | default: "#146cb7" }};
-  --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
+  --footer-hover-col: {{ site.footer-hover-col | default: "#146cb7" }};
 
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
@@ -836,9 +836,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 0.9375rem 1.5625rem;
   }
 }
+.page-link:hover {
+  background-color: var(--hover-col);
+}
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
-  color: var(--page-col);
+  color: var(--hover-col);
   border: 1px solid var(--hover-col);
   background-color: var(--hover-col);
 }
