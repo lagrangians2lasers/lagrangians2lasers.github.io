@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/1k5o88pog87b2.css","style"]
+:HL["/_next/static/chunks/41qtil2n_fbsh.css","style"]
 :HL["https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css","style"]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css","style"]
 :HL["/assets/css/bootstrap-social.css","style"]
 :HL["/assets/css/beautifuljekyll-compiled.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"WMde-LUh1TQScSuU5yelt"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"tsP95UuT9dXdbo1eLWv0Q"}
