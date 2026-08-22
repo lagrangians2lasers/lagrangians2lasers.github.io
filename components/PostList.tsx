@@ -40,7 +40,7 @@ export default function PostList({ allPosts }: { allPosts: any[] }) {
               <article>
                 {post['thumbnail-img'] && (
                   <div className="post-thumbnail">
-                    <img src={post['thumbnail-img']} alt={post.title} style={{ maxWidth: "150px", height: "auto" }} />
+                    <img src={post['thumbnail-img']} alt={post.title} style={{ maxWidth: "250px", height: "auto" }} />
                   </div>
                 )}
 
@@ -70,7 +70,7 @@ export default function PostList({ allPosts }: { allPosts: any[] }) {
                       {post.Location && (
                         <h6>
                           <span className="date-time">
-                            <i className="fas fa-map-marker-alt"></i> <i>{post.Location}</i>
+                            <span className="fas fa-map-marker-alt"></span> <i>{post.Location}</i>
                           </span>
                         </h6>
                       )}
@@ -88,7 +88,7 @@ export default function PostList({ allPosts }: { allPosts: any[] }) {
                           {post.Location && (
                             <>
                               <span className="separator" style={{ margin: "0 5px" }}>|</span>
-                              <i className="fas fa-map-marker-alt"></i> <i>{post.Location}</i>
+                              <span className="fas fa-map-marker-alt"></span> <i>{post.Location}</i>
                             </>
                           )}
                         </span>
@@ -99,7 +99,7 @@ export default function PostList({ allPosts }: { allPosts: any[] }) {
 
                 <div className="post-entry">
                   <p>
-                    {post.excerpt || "Read more..."}
+                    {post.excerpt}
                     <Link href={`/${post.slug}`} className="post-read-more" style={{ marginLeft: "5px" }}>
                       [Read&nbsp;More]
                     </Link>

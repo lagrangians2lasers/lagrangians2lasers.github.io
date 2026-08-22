@@ -1,1 +1,284 @@
-/* We are relying on beautifuljekyll.css and bootstrap for styling now */
+/* Modern, Minimalist & Cohesive Typography & Layout (Anti-Slop) */
+
+:root {
+  --primary-blue: #146cb7;
+  --primary-hover: #0c4d83;
+  --text-dark: #1e293b;
+  --text-body: #334155;
+  --text-muted: #64748b;
+  --border-light: #e2e8f0;
+  --surface-bg: #f8fafc;
+}
+
+/* --- Editorial Hero --- */
+.hero-editorial {
+  position: relative;
+  overflow: hidden;
+  margin-top: 50px;
+  padding: 4.5rem 0 3.5rem;
+  background-color: #0f172a;
+  color: #ffffff;
+}
+
+@media (min-width: 1200px) {
+  .hero-editorial {
+    margin-top: 70px;
+    padding: 6.5rem 0 5rem;
+  }
+}
+
+.hero-backdrop {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center 35%;
+  opacity: 0.38;
+}
+
+.hero-scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(15, 23, 42, 0.4) 0%,
+    rgba(15, 23, 42, 0.85) 100%
+  );
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-kicker {
+  font-family: var(--header-font);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #94a3b8;
+  margin-bottom: 0.75rem;
+}
+
+.hero-headline {
+  font-family: var(--header-font);
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  margin: 0 0 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .hero-headline {
+    font-size: 3.5rem;
+  }
+}
+
+.hero-description {
+  font-family: var(--header-font);
+  font-size: 0.8rem;
+  font-weight: 200;
+  /*font-family: var(--body-font);
+  font-size: 1.15rem;*/
+  line-height: 1.6;
+  color: #cbd5e1;
+  max-width: 640px;
+  margin: 0;
+}
+
+@media (min-width: 768px) {
+  .hero-description {
+    font-size: 1.25rem;
+  }
+}
+
+.hero-meta {
+  font-family: var(--header-font);
+  font-size: 0.95rem;
+  color: #cbd5e1;
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+
+.hero-meta .separator {
+  color: #64748b;
+}
+
+.hero-meta i, .hero-meta span.fas, .hero-meta span.fa-solid {
+  margin-right: 4px;
+}
+
+.hero-speaker-info {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 16px;
+  font-family: var(--header-font);
+  font-size: 0.95rem;
+  color: #e2e8f0;
+}
+
+.hero-speaker-info strong {
+  color: #ffffff;
+}
+
+.hero-speaker-info a {
+  color: #93c5fd;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hero-speaker-info a:hover {
+  color: #bfdbfe;
+}
+
+/* --- Clean Notice Card --- */
+.session-notice {
+  margin: 2.5rem 0 2rem;
+  padding: 1.25rem 1.5rem;
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+}
+
+.session-notice-lead {
+  font-family: var(--header-font);
+  font-size: 1rem;
+  color: var(--text-dark);
+  margin: 0 0 0.4rem;
+}
+
+.session-notice-sub {
+  font-family: var(--body-font);
+  font-size: 1.1rem;
+  color: var(--text-dark);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.session-notice-sub a {
+  color: var(--primary-blue);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.session-notice-sub a:hover {
+  color: var(--primary-hover);
+}
+
+/* --- Section Header --- */
+.talks-section-header {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.talks-section-header h2 {
+  font-family: var(--header-font);
+  font-size: 1.45rem;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #474b52;
+  margin: 0;
+}
+
+/* --- Clean Post List / Previews --- */
+.post-preview {
+  padding: 1.75rem 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.post-preview .post-title {
+  font-family: var(--header-font);
+  font-size: 1.65rem;
+  font-weight: 900;
+  color: var(--text-dark);
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  line-height: 1.25;
+}
+
+.post-preview:hover .post-title {
+  color: var(--primary-blue);
+}
+
+.post-preview .post-subtitle {
+  font-family: var(--header-font);
+  font-size: 1.05rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.post-preview .post-entry {
+  font-family: var(--body-font);
+  color: var(--text-body);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-top: 0.75rem;
+}
+
+.post-preview .post-read-more {
+  font-weight: 600;
+  color: var(--primary-blue);
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 6px;
+}
+
+.post-preview .post-read-more:hover {
+  text-decoration: underline;
+  color: var(--primary-hover);
+}
+
+/* --- Boxes (Note, Warning, Error) Clean Treatment --- */
+.box-note,
+.box-warning,
+.box-error,
+.box-success {
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.box-note {
+  background-color: #f1f5f9;
+  border-left: 3px solid var(--primary-blue);
+  color: var(--text-dark);
+}
+
+.box-warning {
+  background-color: #fefce8;
+  border-left: 3px solid #ca8a04;
+  color: #713f12;
+}
+
+.box-error {
+  background-color: #fef2f2;
+  border-left: 3px solid #dc2626;
+  color: #7f1d1d;
+}
+
+/* --- Slider Styling --- */
+.slider-wrapper {
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+}
+
+.image-slider {
+  background-color: #0f172a;
+}
