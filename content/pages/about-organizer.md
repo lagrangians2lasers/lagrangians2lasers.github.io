@@ -14,7 +14,7 @@ subtitle: Meet the Team
       </div>
       <div class="organizer-info">
         <h2>Eeshaan K B</h2>
-        <h3>4th year BS-MS (2022-2027)</h3>
+        <h3>4th year BS-MS (2023-2028)</h3>
         <p><strong>Tenure:</strong> Aug '26 - Present</p>
         <p></p>
       </div>
