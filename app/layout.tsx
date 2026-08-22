@@ -10,6 +10,13 @@ export const metadata: Metadata = {
   title: "Lagrangians to Lasers | Physics Journal Club, IISER Pune",
   description: "Lagrangians to Lasers (L2L) is a journal club for Physics enthusiasts at the Indian Institute of Science Education and Research (IISER), Pune.",
   keywords: "Lagrangians to Lasers, Physics, Journal club, IISER Pune, Science, Seminar, Research",
+  icons: {
+    icon: [
+      { url: "/assets/img/new_logo.jpeg", type: "image/jpeg" },
+      { url: "/favicon.ico" }
+    ],
+    apple: "/assets/img/new_logo.jpeg",
+  },
 };
 
 export default function RootLayout({
@@ -20,6 +27,8 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning className={`${lora.variable} ${openSans.variable}`}>
       <head>
+        <link rel="icon" type="image/jpeg" href="/assets/img/new_logo.jpeg" />
+        <link rel="apple-touch-icon" href="/assets/img/new_logo.jpeg" />
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
         <link rel="stylesheet" href="/assets/css/bootstrap-social.css" />
