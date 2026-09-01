@@ -148,6 +148,16 @@ export default function Navbar() {
               >
                 Jan &apos;25
               </Link>
+              <Link
+                className="dropdown-item"
+                href="/aug26"
+                onClick={() => {
+                  setDropdownOpen(false);
+                  setMobileMenuOpen(false);
+                }}
+              >
+                Aug &apos;26
+              </Link>
             </div>
           </li>
           <li className="nav-item">
